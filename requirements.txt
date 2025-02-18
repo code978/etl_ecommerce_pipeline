@@ -2,3 +2,4 @@ pandas
 sqlalchemy
 psycopg2  # Only needed for PostgreSQL
 python-dotenv
+apache-airflow
