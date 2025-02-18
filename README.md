@@ -7,7 +7,7 @@ This project extracts, transforms, and loads e-commerce sales data into a databa
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/etl_ecommerce_pipeline.git cd etl_ecommerce_pipeline
+git clone https://github.com/code978/etl_ecommerce_pipeline cd etl_ecommerce_pipeline
 
 
 ### 2. Install Dependencies
