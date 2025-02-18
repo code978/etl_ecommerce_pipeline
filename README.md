@@ -14,7 +14,7 @@ git clone https://github.com/yourusername/etl_ecommerce_pipeline.git cd etl_ecom
 
 pip install -r requirements.txt
 
-Need to create .env file and pass connection_string
+Need to create .env file same as .env.sample and pass connection_string
 
 ### 3. Run the ETL Pipeline
 python src/etl_pipeline.py
