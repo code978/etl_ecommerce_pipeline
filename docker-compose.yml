@@ -1,0 +1,21 @@
+version: '3.8'
+services:
+  db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: ecommerce_db
+    ports:
+      - "5432:5432"
+
+  etl:
+    build: .
+    depends_on:
+      - db
+    environment:
+      DB_HOST: db
+      DB_NAME: ecommerce_db
+      DB_USER: user
+      DB_PASS: password

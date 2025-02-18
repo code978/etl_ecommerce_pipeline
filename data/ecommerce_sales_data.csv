@@ -1,0 +1,1001 @@
+order_id,customer_id,customer_name,product_id,product_name,category,quantity,price_per_unit,total_price,order_date,payment_method,status
+1001,C010,Amanda Arias,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2024-12-27,Debit Card,Delivered
+1002,C048,Alexander Davis,P004,Smartphone,Electronics,4,500.0,2000.0,2024-09-14,PayPal,Delivered
+1003,C044,Alexander Sawyer,P004,Smartphone,Electronics,1,500.0,500.0,2024-05-30,Credit Card,Shipped
+1004,C018,Kylie Fleming,P006,LED Monitor,Electronics,4,200.0,800.0,2024-11-17,Debit Card,Cancelled
+1005,C025,Allison Kim,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-03-11,PayPal,Delivered
+1006,C020,George Gill,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-11-14,PayPal,Delivered
+1007,C046,Michelle Castro,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-03-21,Credit Card,Processing
+1008,C010,Ronald Garza,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-07-17,PayPal,Processing
+1009,C049,Jacob Smith,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2024-10-21,Credit Card,Processing
+1010,C003,Monique Figueroa,P006,LED Monitor,Electronics,4,200.0,800.0,2024-11-23,Debit Card,Processing
+1011,C047,Julie Jones,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-10-25,Credit Card,Delivered
+1012,C009,Timothy Oconnor,P003,Running Shoes,Sportswear,3,60.0,180.0,2024-09-18,PayPal,Cancelled
+1013,C044,Lisa Mckinney,P006,LED Monitor,Electronics,3,200.0,600.0,2025-01-21,PayPal,Shipped
+1014,C046,Ariana Moses,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2025-01-31,PayPal,Delivered
+1015,C018,Keith Thornton,P008,Backpack,Fashion,1,40.0,40.0,2025-01-08,Credit Card,Delivered
+1016,C015,Jennifer Martin,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-07-03,Credit Card,Cancelled
+1017,C027,Jennifer Jimenez,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2024-02-22,Credit Card,Delivered
+1018,C011,Denise Jordan,P006,LED Monitor,Electronics,3,200.0,600.0,2024-11-18,Credit Card,Delivered
+1019,C006,Joseph Pierce,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2025-01-09,Credit Card,Cancelled
+1020,C019,Victoria Scott,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-11-04,PayPal,Delivered
+1021,C035,Kimberly Bell,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-03-01,Debit Card,Shipped
+1022,C048,Omar Weaver,P001,Wireless Mouse,Electronics,1,25.0,25.0,2024-09-14,Debit Card,Shipped
+1023,C011,Clarence Cabrera,P008,Backpack,Fashion,3,40.0,120.0,2024-06-06,Debit Card,Delivered
+1024,C027,Alyssa Johnson,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-10-09,PayPal,Delivered
+1025,C013,Angela Berg,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-06-30,Credit Card,Shipped
+1026,C035,Jeffrey Johnson,P006,LED Monitor,Electronics,4,200.0,800.0,2024-05-26,PayPal,Processing
+1027,C039,Darryl Bautista,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-11-24,PayPal,Delivered
+1028,C024,Joseph Schwartz,P004,Smartphone,Electronics,5,500.0,2500.0,2024-03-27,PayPal,Processing
+1029,C004,Kimberly Bailey,P005,Yoga Mat,Sportswear,2,30.0,60.0,2024-06-02,Debit Card,Processing
+1030,C037,Sharon Smith,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-12-12,PayPal,Delivered
+1031,C021,Lawrence Thompson,P004,Smartphone,Electronics,1,500.0,500.0,2024-08-26,PayPal,Delivered
+1032,C003,Jocelyn Phillips,P008,Backpack,Fashion,3,40.0,120.0,2024-03-13,PayPal,Processing
+1033,C032,Austin Lin,P008,Backpack,Fashion,5,40.0,200.0,2024-05-28,Debit Card,Delivered
+1034,C037,Kimberly Becker,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-03-17,Debit Card,Processing
+1035,C044,Julie Owens,P006,LED Monitor,Electronics,2,200.0,400.0,2024-12-18,PayPal,Shipped
+1036,C025,James Yang,P004,Smartphone,Electronics,1,500.0,500.0,2024-03-24,PayPal,Processing
+1037,C029,Jane Martinez,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-08-03,Debit Card,Cancelled
+1038,C050,Rebecca Shaw,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-09-27,PayPal,Processing
+1039,C033,Laura Huerta,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-07-26,PayPal,Delivered
+1040,C009,Robert Gordon,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-10-30,Credit Card,Shipped
+1041,C048,Kim Walsh,P006,LED Monitor,Electronics,3,200.0,600.0,2024-02-20,Credit Card,Delivered
+1042,C032,Stephanie Williams,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-12-06,Credit Card,Delivered
+1043,C035,William Horton,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-05-29,Debit Card,Delivered
+1044,C042,Dawn Watson,P004,Smartphone,Electronics,1,500.0,500.0,2024-03-12,Credit Card,Cancelled
+1045,C048,Marilyn Taylor,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-03-12,Debit Card,Processing
+1046,C001,Megan Morgan,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-11-06,Credit Card,Shipped
+1047,C014,Charles Bernard,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-09-07,Debit Card,Processing
+1048,C018,Melanie Walker,P007,Coffee Maker,Home Appliances,3,100.0,300.0,2024-08-10,Credit Card,Delivered
+1049,C019,Mark Payne,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-09-28,Credit Card,Processing
+1050,C046,Emily Curry,P004,Smartphone,Electronics,4,500.0,2000.0,2024-12-11,PayPal,Delivered
+1051,C031,Carrie Collins,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-03-20,PayPal,Cancelled
+1052,C028,William Ellis,P008,Backpack,Fashion,2,40.0,80.0,2024-04-09,Debit Card,Cancelled
+1053,C038,Maria Cline,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-06-30,Debit Card,Processing
+1054,C046,Melissa Perez,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-06-26,Debit Card,Delivered
+1055,C019,Peter Frazier,P001,Wireless Mouse,Electronics,3,25.0,75.0,2025-01-28,PayPal,Delivered
+1056,C010,Michele Williamson,P005,Yoga Mat,Sportswear,2,30.0,60.0,2024-06-18,Debit Card,Shipped
+1057,C012,Christina Stein,P006,LED Monitor,Electronics,5,200.0,1000.0,2025-01-18,PayPal,Cancelled
+1058,C035,John Ramirez,P006,LED Monitor,Electronics,5,200.0,1000.0,2024-11-09,Credit Card,Cancelled
+1059,C046,Jacob Edwards,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-06-02,PayPal,Shipped
+1060,C049,Erin Stone,P005,Yoga Mat,Sportswear,2,30.0,60.0,2025-02-13,Debit Card,Processing
+1061,C044,Caroline Rosario,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-11-02,Debit Card,Cancelled
+1062,C008,Megan Mendoza,P004,Smartphone,Electronics,1,500.0,500.0,2024-10-19,PayPal,Delivered
+1063,C044,Paul Ross,P003,Running Shoes,Sportswear,3,60.0,180.0,2024-05-02,Credit Card,Delivered
+1064,C011,Heather Glover,P003,Running Shoes,Sportswear,1,60.0,60.0,2024-04-10,Debit Card,Shipped
+1065,C011,Jacob Lopez,P008,Backpack,Fashion,5,40.0,200.0,2024-10-16,Credit Card,Processing
+1066,C035,Jennifer Richardson,P008,Backpack,Fashion,1,40.0,40.0,2024-03-08,Credit Card,Cancelled
+1067,C037,Michael Collier,P006,LED Monitor,Electronics,3,200.0,600.0,2024-11-08,Credit Card,Cancelled
+1068,C013,James Atkins,P004,Smartphone,Electronics,4,500.0,2000.0,2024-07-22,Credit Card,Cancelled
+1069,C039,Garrett Porter,P008,Backpack,Fashion,2,40.0,80.0,2024-03-11,Debit Card,Cancelled
+1070,C050,Mr. Randy Kennedy,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-04-13,PayPal,Shipped
+1071,C022,Danny Mayo,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-12-27,PayPal,Shipped
+1072,C017,Scott Smith,P005,Yoga Mat,Sportswear,5,30.0,150.0,2024-10-27,PayPal,Cancelled
+1073,C026,Luis Johnson,P006,LED Monitor,Electronics,1,200.0,200.0,2024-08-29,PayPal,Shipped
+1074,C035,Tammy Short,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-07-30,Credit Card,Cancelled
+1075,C023,Amy Evans,P006,LED Monitor,Electronics,3,200.0,600.0,2024-03-24,Credit Card,Cancelled
+1076,C037,Kayla Burton,P005,Yoga Mat,Sportswear,2,30.0,60.0,2024-09-25,Credit Card,Shipped
+1077,C001,Jennifer Jimenez,P005,Yoga Mat,Sportswear,5,30.0,150.0,2024-04-07,Credit Card,Delivered
+1078,C018,Katherine Ortiz,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-07-24,Debit Card,Cancelled
+1079,C013,April Gardner,P005,Yoga Mat,Sportswear,4,30.0,120.0,2025-02-06,Debit Card,Cancelled
+1080,C036,Arthur Stevens,P003,Running Shoes,Sportswear,4,60.0,240.0,2025-01-12,Credit Card,Cancelled
+1081,C036,Jeremy Jackson,P004,Smartphone,Electronics,1,500.0,500.0,2024-08-19,Credit Card,Processing
+1082,C014,Jason Stephens,P008,Backpack,Fashion,2,40.0,80.0,2024-10-08,Debit Card,Shipped
+1083,C004,Peter Lopez PhD,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-12-05,Credit Card,Shipped
+1084,C024,David Patrick,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-10-12,PayPal,Delivered
+1085,C042,Teresa Campbell,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-09-29,Debit Card,Shipped
+1086,C050,Mitchell Dawson,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-05-04,PayPal,Processing
+1087,C043,Ann Whitaker,P004,Smartphone,Electronics,2,500.0,1000.0,2025-01-18,Credit Card,Cancelled
+1088,C017,Bailey York,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2024-05-20,Credit Card,Shipped
+1089,C011,Scott Davis,P006,LED Monitor,Electronics,5,200.0,1000.0,2024-05-01,Credit Card,Shipped
+1090,C036,Kenneth Fowler,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-06-29,PayPal,Delivered
+1091,C009,Zachary Cole,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-09-09,Debit Card,Processing
+1092,C015,Jordan Richards,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-12-17,PayPal,Shipped
+1093,C013,Susan Smith,P001,Wireless Mouse,Electronics,1,25.0,25.0,2024-03-29,PayPal,Delivered
+1094,C041,Mrs. Christine Baldwin,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-06-28,Credit Card,Processing
+1095,C012,Christopher Benton,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-07-11,PayPal,Delivered
+1096,C014,Kimberly Butler,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2025-01-19,Debit Card,Shipped
+1097,C033,Richard Hardin,P004,Smartphone,Electronics,5,500.0,2500.0,2024-08-29,PayPal,Processing
+1098,C025,Justin Thornton MD,P005,Yoga Mat,Sportswear,4,30.0,120.0,2025-01-31,Credit Card,Cancelled
+1099,C013,Ronald Graves,P001,Wireless Mouse,Electronics,4,25.0,100.0,2025-02-06,Credit Card,Cancelled
+1100,C017,Jamie Allen,P004,Smartphone,Electronics,2,500.0,1000.0,2024-05-05,Credit Card,Cancelled
+1101,C040,Christina Daniels,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-08-02,PayPal,Shipped
+1102,C046,Tiffany Finley,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2024-03-29,Credit Card,Shipped
+1103,C039,Daniel Hill,P006,LED Monitor,Electronics,2,200.0,400.0,2024-08-29,PayPal,Delivered
+1104,C009,Rhonda Bridges,P005,Yoga Mat,Sportswear,5,30.0,150.0,2025-01-12,Debit Card,Processing
+1105,C010,James Glass,P006,LED Monitor,Electronics,4,200.0,800.0,2024-12-26,Credit Card,Shipped
+1106,C003,Grant Hardin,P006,LED Monitor,Electronics,2,200.0,400.0,2024-09-30,Debit Card,Processing
+1107,C030,Christopher Moran,P004,Smartphone,Electronics,1,500.0,500.0,2024-09-24,Debit Card,Processing
+1108,C021,James Thompson,P007,Coffee Maker,Home Appliances,3,100.0,300.0,2024-12-02,PayPal,Delivered
+1109,C034,Krystal Wright,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-11-27,PayPal,Processing
+1110,C048,Luis Sandoval,P008,Backpack,Fashion,4,40.0,160.0,2024-09-28,Credit Card,Delivered
+1111,C020,Heather Walker,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-10-24,Debit Card,Processing
+1112,C042,Ashley Thornton,P008,Backpack,Fashion,1,40.0,40.0,2024-06-11,Debit Card,Processing
+1113,C024,Shaun Matthews,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-12-17,Debit Card,Cancelled
+1114,C041,Shelby Erickson,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-11-10,Credit Card,Processing
+1115,C037,Brad Jones,P004,Smartphone,Electronics,4,500.0,2000.0,2024-11-19,PayPal,Shipped
+1116,C001,Margaret Molina,P001,Wireless Mouse,Electronics,1,25.0,25.0,2024-09-15,Credit Card,Shipped
+1117,C033,Kevin Rodriguez,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-05-05,Debit Card,Processing
+1118,C012,Joseph Lewis,P008,Backpack,Fashion,3,40.0,120.0,2024-09-10,Debit Card,Processing
+1119,C049,Michelle Coleman,P001,Wireless Mouse,Electronics,1,25.0,25.0,2024-07-27,Debit Card,Processing
+1120,C015,Dave Wiley,P004,Smartphone,Electronics,5,500.0,2500.0,2024-12-31,Debit Card,Shipped
+1121,C029,Jay Martinez,P001,Wireless Mouse,Electronics,5,25.0,125.0,2025-01-12,PayPal,Delivered
+1122,C010,Timothy Sparks,P001,Wireless Mouse,Electronics,2,25.0,50.0,2025-01-31,PayPal,Shipped
+1123,C011,Geoffrey Ortega,P008,Backpack,Fashion,5,40.0,200.0,2024-02-19,Debit Card,Shipped
+1124,C007,Ryan Jensen,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-04-24,PayPal,Cancelled
+1125,C024,Breanna Perkins,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-11-25,PayPal,Cancelled
+1126,C002,Olivia Acosta,P008,Backpack,Fashion,2,40.0,80.0,2024-07-28,Debit Card,Delivered
+1127,C029,Peter Watts,P006,LED Monitor,Electronics,5,200.0,1000.0,2024-04-14,Credit Card,Cancelled
+1128,C048,Steven Hooper,P001,Wireless Mouse,Electronics,1,25.0,25.0,2024-05-04,Credit Card,Cancelled
+1129,C044,Tiffany Webb,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-06-25,PayPal,Cancelled
+1130,C024,Kimberly Mitchell,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-10-14,Credit Card,Processing
+1131,C005,Tina Hill,P008,Backpack,Fashion,5,40.0,200.0,2024-04-16,Credit Card,Cancelled
+1132,C015,Juan Wade,P005,Yoga Mat,Sportswear,2,30.0,60.0,2024-08-16,Credit Card,Cancelled
+1133,C042,Joshua Peterson,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-08-11,Debit Card,Delivered
+1134,C017,Richard Gutierrez,P008,Backpack,Fashion,5,40.0,200.0,2024-06-23,Credit Card,Shipped
+1135,C030,Gary Hays,P008,Backpack,Fashion,3,40.0,120.0,2024-11-27,Credit Card,Processing
+1136,C040,Dr. Danny Hernandez,P006,LED Monitor,Electronics,5,200.0,1000.0,2024-10-17,Credit Card,Processing
+1137,C016,Mitchell Brady,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-11-08,PayPal,Delivered
+1138,C023,Laura Wagner,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2025-02-12,Debit Card,Delivered
+1139,C016,Megan Cobb,P008,Backpack,Fashion,1,40.0,40.0,2024-11-12,Debit Card,Cancelled
+1140,C020,Lori Ramirez,P004,Smartphone,Electronics,3,500.0,1500.0,2024-08-15,Credit Card,Delivered
+1141,C036,Kevin Castro,P006,LED Monitor,Electronics,5,200.0,1000.0,2024-12-01,Credit Card,Shipped
+1142,C038,Bradley Smith,P006,LED Monitor,Electronics,3,200.0,600.0,2024-10-15,Debit Card,Cancelled
+1143,C023,Javier Kaiser,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-06-12,Debit Card,Cancelled
+1144,C033,Scott Barker,P006,LED Monitor,Electronics,2,200.0,400.0,2024-05-24,Debit Card,Processing
+1145,C004,Cynthia Morris,P006,LED Monitor,Electronics,1,200.0,200.0,2024-06-11,Credit Card,Shipped
+1146,C035,Wendy Goodwin,P006,LED Monitor,Electronics,1,200.0,200.0,2024-08-10,Debit Card,Processing
+1147,C013,Joel Hernandez,P005,Yoga Mat,Sportswear,4,30.0,120.0,2025-02-09,Debit Card,Processing
+1148,C020,Tammy Hansen,P005,Yoga Mat,Sportswear,5,30.0,150.0,2025-02-04,Debit Card,Delivered
+1149,C050,Trevor Mcbride,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-03-13,PayPal,Shipped
+1150,C043,Haley Fowler,P004,Smartphone,Electronics,2,500.0,1000.0,2024-11-11,PayPal,Processing
+1151,C005,Micheal Mcdaniel,P005,Yoga Mat,Sportswear,4,30.0,120.0,2025-01-02,PayPal,Shipped
+1152,C015,Bruce Barnes,P005,Yoga Mat,Sportswear,3,30.0,90.0,2024-08-18,PayPal,Delivered
+1153,C011,Nancy Mitchell,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-06-14,Credit Card,Delivered
+1154,C014,Cristina Dennis,P008,Backpack,Fashion,4,40.0,160.0,2024-06-04,Credit Card,Processing
+1155,C006,Mary Mcfarland,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-09-03,PayPal,Delivered
+1156,C021,Jeff Murray,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-04-09,Credit Card,Shipped
+1157,C030,Patrick Rodriguez,P006,LED Monitor,Electronics,2,200.0,400.0,2024-09-18,Credit Card,Delivered
+1158,C004,Michael Rhodes,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-07-14,Debit Card,Cancelled
+1159,C026,Pamela Buckley,P005,Yoga Mat,Sportswear,2,30.0,60.0,2024-04-04,PayPal,Processing
+1160,C038,Jeremy Franco,P004,Smartphone,Electronics,1,500.0,500.0,2024-06-13,Debit Card,Shipped
+1161,C044,Brittany Young,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-09-26,PayPal,Delivered
+1162,C009,Karen Patterson,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-07-11,Debit Card,Delivered
+1163,C048,Timothy Rodriguez,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-11-02,Credit Card,Processing
+1164,C042,Katherine Roberts,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-12-24,Debit Card,Processing
+1165,C034,Christopher Jones,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-03-19,Debit Card,Processing
+1166,C026,Scott Thomas,P004,Smartphone,Electronics,5,500.0,2500.0,2024-08-28,Debit Card,Shipped
+1167,C003,David Johnson,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-09-10,PayPal,Cancelled
+1168,C034,James Maldonado,P006,LED Monitor,Electronics,2,200.0,400.0,2024-05-13,Credit Card,Processing
+1169,C038,Madison Hill,P008,Backpack,Fashion,2,40.0,80.0,2024-07-18,Credit Card,Processing
+1170,C014,David Valencia,P006,LED Monitor,Electronics,2,200.0,400.0,2025-01-28,Debit Card,Delivered
+1171,C026,William Brock,P008,Backpack,Fashion,1,40.0,40.0,2025-01-21,Debit Card,Cancelled
+1172,C001,Dorothy Moore,P004,Smartphone,Electronics,1,500.0,500.0,2024-04-18,Debit Card,Cancelled
+1173,C007,Larry Allen,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-05-18,Credit Card,Processing
+1174,C028,Jessica Middleton,P008,Backpack,Fashion,5,40.0,200.0,2024-06-14,PayPal,Cancelled
+1175,C022,James Young DVM,P008,Backpack,Fashion,3,40.0,120.0,2024-10-19,Debit Card,Shipped
+1176,C045,Samuel West,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-08-29,Credit Card,Processing
+1177,C009,Julie Payne,P008,Backpack,Fashion,3,40.0,120.0,2024-05-06,Debit Card,Cancelled
+1178,C003,Edward Russell,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-09-18,Debit Card,Shipped
+1179,C007,Matthew Stone,P004,Smartphone,Electronics,5,500.0,2500.0,2024-02-18,PayPal,Processing
+1180,C008,Justin Gonzalez,P008,Backpack,Fashion,4,40.0,160.0,2025-01-11,Debit Card,Delivered
+1181,C014,Craig Smith,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-10-06,PayPal,Delivered
+1182,C029,Jeff Zamora,P008,Backpack,Fashion,3,40.0,120.0,2024-11-21,Credit Card,Cancelled
+1183,C021,Paula Ponce MD,P008,Backpack,Fashion,1,40.0,40.0,2024-06-06,PayPal,Processing
+1184,C005,Julian Walker MD,P008,Backpack,Fashion,1,40.0,40.0,2024-05-09,Debit Card,Delivered
+1185,C036,Nathaniel Crane,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-06-20,Credit Card,Delivered
+1186,C010,Amy Rush,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-07-15,Credit Card,Delivered
+1187,C022,Lindsay Robinson,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-10-20,Credit Card,Cancelled
+1188,C045,Charles Medina,P004,Smartphone,Electronics,4,500.0,2000.0,2024-08-08,Credit Card,Cancelled
+1189,C050,Jason Mcconnell,P004,Smartphone,Electronics,1,500.0,500.0,2024-03-30,Credit Card,Cancelled
+1190,C007,Keith Atkins,P006,LED Monitor,Electronics,4,200.0,800.0,2024-10-20,Credit Card,Shipped
+1191,C020,Anthony Martinez,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-10-04,Debit Card,Processing
+1192,C040,Cynthia Stein,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-12-10,Credit Card,Shipped
+1193,C016,John Adams,P004,Smartphone,Electronics,4,500.0,2000.0,2024-11-28,PayPal,Processing
+1194,C021,Angela Harding,P006,LED Monitor,Electronics,5,200.0,1000.0,2024-02-19,Debit Card,Delivered
+1195,C022,Jimmy Jones,P001,Wireless Mouse,Electronics,1,25.0,25.0,2024-06-21,PayPal,Cancelled
+1196,C034,Bryce Dalton,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-04-05,Debit Card,Delivered
+1197,C026,Thomas Williams,P006,LED Monitor,Electronics,3,200.0,600.0,2025-02-15,Credit Card,Processing
+1198,C021,Teresa Jackson,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-06-10,PayPal,Processing
+1199,C044,Brett Meyers,P006,LED Monitor,Electronics,1,200.0,200.0,2025-01-29,PayPal,Shipped
+1200,C017,Zachary Johnson,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-03-10,Debit Card,Cancelled
+1201,C027,Patrick Lynn,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2025-01-21,Credit Card,Cancelled
+1202,C020,Donald Parrish,P004,Smartphone,Electronics,3,500.0,1500.0,2024-04-03,PayPal,Delivered
+1203,C006,Thomas Hernandez,P008,Backpack,Fashion,4,40.0,160.0,2024-07-27,PayPal,Shipped
+1204,C002,Michael Morgan,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-04-08,PayPal,Processing
+1205,C030,David Dixon,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2024-12-15,Credit Card,Processing
+1206,C036,Christine Duran,P004,Smartphone,Electronics,4,500.0,2000.0,2024-12-17,Debit Card,Shipped
+1207,C013,Nathan Watson,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-03-07,Debit Card,Cancelled
+1208,C003,Erica Davis,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-05-29,PayPal,Processing
+1209,C041,Paul Harris,P006,LED Monitor,Electronics,3,200.0,600.0,2024-07-01,Debit Card,Delivered
+1210,C007,James Rush,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2025-01-02,Credit Card,Processing
+1211,C050,Christina Wilson,P005,Yoga Mat,Sportswear,3,30.0,90.0,2024-09-30,Credit Card,Shipped
+1212,C004,Daniel Martinez,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-06-23,Debit Card,Delivered
+1213,C046,Richard Shelton DVM,P008,Backpack,Fashion,5,40.0,200.0,2024-06-05,Debit Card,Shipped
+1214,C031,Peter Kemp,P003,Running Shoes,Sportswear,1,60.0,60.0,2024-04-27,PayPal,Shipped
+1215,C001,Benjamin Jacobs,P004,Smartphone,Electronics,2,500.0,1000.0,2024-12-04,Credit Card,Cancelled
+1216,C031,William Parks,P003,Running Shoes,Sportswear,5,60.0,300.0,2025-01-15,Debit Card,Delivered
+1217,C020,Angelica Gill,P001,Wireless Mouse,Electronics,1,25.0,25.0,2024-09-13,PayPal,Cancelled
+1218,C021,Christopher Gaines,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-06-05,Debit Card,Shipped
+1219,C017,Matthew Harris,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-11-27,Credit Card,Delivered
+1220,C004,Jose Wood,P006,LED Monitor,Electronics,1,200.0,200.0,2024-05-13,PayPal,Processing
+1221,C047,Peter Porter,P008,Backpack,Fashion,3,40.0,120.0,2024-08-25,Credit Card,Delivered
+1222,C003,Andrea Haynes,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-10-19,Credit Card,Shipped
+1223,C047,Jeffrey Barr,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-05-03,Credit Card,Shipped
+1224,C036,Jason Wu,P008,Backpack,Fashion,1,40.0,40.0,2025-02-03,Credit Card,Delivered
+1225,C020,Jennifer Christensen,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-08-29,Credit Card,Processing
+1226,C036,Cindy Hoover,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-02-24,Credit Card,Shipped
+1227,C014,Kimberly Mckee,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-06-25,PayPal,Shipped
+1228,C031,Craig Simon,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-06-09,PayPal,Cancelled
+1229,C022,Diane Vargas,P004,Smartphone,Electronics,2,500.0,1000.0,2024-09-08,Credit Card,Cancelled
+1230,C008,Brandy Hernandez,P006,LED Monitor,Electronics,2,200.0,400.0,2024-06-21,Debit Card,Delivered
+1231,C038,Amanda Williams,P005,Yoga Mat,Sportswear,5,30.0,150.0,2024-06-28,Debit Card,Processing
+1232,C041,Joshua Nelson,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2024-09-07,PayPal,Delivered
+1233,C033,Terri Parks,P004,Smartphone,Electronics,2,500.0,1000.0,2024-11-25,Credit Card,Cancelled
+1234,C031,Teresa Short,P006,LED Monitor,Electronics,5,200.0,1000.0,2024-09-21,Credit Card,Cancelled
+1235,C017,Thomas Cobb,P003,Running Shoes,Sportswear,3,60.0,180.0,2024-04-24,Debit Card,Cancelled
+1236,C015,Kyle Daniels,P005,Yoga Mat,Sportswear,3,30.0,90.0,2024-05-18,Debit Card,Shipped
+1237,C010,Alexis Herrera,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-07-31,PayPal,Cancelled
+1238,C029,Bradley Wilson,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-03-14,Debit Card,Cancelled
+1239,C025,Donna Jones,P001,Wireless Mouse,Electronics,1,25.0,25.0,2025-02-17,PayPal,Cancelled
+1240,C016,Matthew Hudson,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2025-01-18,Debit Card,Processing
+1241,C005,Robert Pham,P005,Yoga Mat,Sportswear,2,30.0,60.0,2024-07-05,Debit Card,Processing
+1242,C035,Jesse Fritz,P004,Smartphone,Electronics,5,500.0,2500.0,2024-03-31,Credit Card,Shipped
+1243,C006,Marcia Lewis,P005,Yoga Mat,Sportswear,2,30.0,60.0,2024-11-04,Debit Card,Cancelled
+1244,C011,Mr. Michael Beasley,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2025-01-01,Debit Card,Processing
+1245,C043,Thomas Montoya,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-12-03,Credit Card,Processing
+1246,C005,Dean Moore,P006,LED Monitor,Electronics,2,200.0,400.0,2024-11-15,Debit Card,Processing
+1247,C038,Patrick Bailey,P004,Smartphone,Electronics,3,500.0,1500.0,2024-06-08,Credit Card,Shipped
+1248,C039,Perry Brown,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-09-17,PayPal,Processing
+1249,C020,Michael Cole,P008,Backpack,Fashion,4,40.0,160.0,2025-02-03,PayPal,Delivered
+1250,C035,Maria Watson,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-04-13,Debit Card,Processing
+1251,C004,Todd Arias,P008,Backpack,Fashion,1,40.0,40.0,2024-10-21,Debit Card,Processing
+1252,C004,Aaron Bowers,P004,Smartphone,Electronics,3,500.0,1500.0,2024-06-08,Credit Card,Delivered
+1253,C028,April Smith MD,P004,Smartphone,Electronics,5,500.0,2500.0,2024-04-28,PayPal,Cancelled
+1254,C037,Victoria Dorsey,P006,LED Monitor,Electronics,2,200.0,400.0,2024-10-27,PayPal,Cancelled
+1255,C015,Lisa Green,P003,Running Shoes,Sportswear,3,60.0,180.0,2024-12-09,Debit Card,Cancelled
+1256,C024,Erica Fields,P006,LED Monitor,Electronics,2,200.0,400.0,2024-06-17,Credit Card,Shipped
+1257,C003,Matthew Poole,P008,Backpack,Fashion,2,40.0,80.0,2024-10-16,PayPal,Cancelled
+1258,C016,Zachary Elliott,P006,LED Monitor,Electronics,4,200.0,800.0,2024-04-19,PayPal,Processing
+1259,C001,John Shelton,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-11-13,Credit Card,Shipped
+1260,C048,Nicole Liu,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-07-09,Debit Card,Processing
+1261,C024,Mark Rios,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-12-03,Credit Card,Shipped
+1262,C019,Ashley Hodges MD,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-03-20,PayPal,Delivered
+1263,C044,Brian Jones,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-03-09,PayPal,Delivered
+1264,C044,Mrs. Tina Gilbert,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-08-19,PayPal,Shipped
+1265,C049,Ashley Peters,P008,Backpack,Fashion,3,40.0,120.0,2024-04-23,Credit Card,Cancelled
+1266,C030,Bradley Thomas,P006,LED Monitor,Electronics,2,200.0,400.0,2024-04-04,PayPal,Cancelled
+1267,C045,Connor Young,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2025-02-15,Credit Card,Delivered
+1268,C050,George Bradley,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-03-08,Debit Card,Shipped
+1269,C001,James Baker,P008,Backpack,Fashion,4,40.0,160.0,2024-04-22,PayPal,Cancelled
+1270,C007,Jesus Nguyen,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-07-10,Debit Card,Shipped
+1271,C026,Julia Ryan,P007,Coffee Maker,Home Appliances,3,100.0,300.0,2024-12-15,Debit Card,Shipped
+1272,C009,Jasmine Johnson,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-05-19,Debit Card,Cancelled
+1273,C021,Michael Gallagher,P006,LED Monitor,Electronics,2,200.0,400.0,2024-06-16,Credit Card,Shipped
+1274,C001,Amanda Collins,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-08-24,Credit Card,Processing
+1275,C026,Cindy Patterson,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-09-18,PayPal,Shipped
+1276,C008,Riley Smith,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-04-27,PayPal,Processing
+1277,C023,Tiffany Thomas,P006,LED Monitor,Electronics,5,200.0,1000.0,2024-08-17,Credit Card,Cancelled
+1278,C024,Richard Delacruz,P005,Yoga Mat,Sportswear,5,30.0,150.0,2025-02-13,Debit Card,Delivered
+1279,C029,Richard Ritter,P005,Yoga Mat,Sportswear,2,30.0,60.0,2024-03-25,Debit Card,Processing
+1280,C022,Sarah Gomez,P004,Smartphone,Electronics,2,500.0,1000.0,2024-10-16,PayPal,Cancelled
+1281,C032,Alex Cunningham,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-06-17,Credit Card,Shipped
+1282,C048,Craig Horne,P006,LED Monitor,Electronics,4,200.0,800.0,2024-07-11,PayPal,Delivered
+1283,C019,Jamie Duffy,P008,Backpack,Fashion,1,40.0,40.0,2024-09-26,PayPal,Processing
+1284,C048,Brian Baldwin,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2025-01-20,Debit Card,Shipped
+1285,C018,Derrick Rowland,P006,LED Monitor,Electronics,2,200.0,400.0,2025-01-24,Credit Card,Processing
+1286,C030,Audrey Gonzales,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-05-22,PayPal,Delivered
+1287,C017,Jennifer Ferguson,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-07-26,PayPal,Delivered
+1288,C043,Gregory Garrett,P004,Smartphone,Electronics,4,500.0,2000.0,2024-09-25,PayPal,Shipped
+1289,C043,Denise Saunders,P008,Backpack,Fashion,4,40.0,160.0,2024-11-20,Credit Card,Processing
+1290,C013,Mary Gordon,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-04-29,Credit Card,Cancelled
+1291,C039,Lynn Rasmussen,P007,Coffee Maker,Home Appliances,3,100.0,300.0,2024-07-21,PayPal,Delivered
+1292,C031,Michael Richards,P006,LED Monitor,Electronics,1,200.0,200.0,2024-04-22,Credit Card,Cancelled
+1293,C007,Cody Reed,P004,Smartphone,Electronics,2,500.0,1000.0,2024-10-09,Debit Card,Shipped
+1294,C020,Rebecca Spencer,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-07-27,Debit Card,Processing
+1295,C002,Kyle Lowe,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-06-14,PayPal,Delivered
+1296,C040,Samantha Gray,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-10-07,Debit Card,Processing
+1297,C015,Virginia Galvan,P006,LED Monitor,Electronics,3,200.0,600.0,2024-10-14,PayPal,Delivered
+1298,C023,Kathryn Mueller,P004,Smartphone,Electronics,3,500.0,1500.0,2024-12-10,Credit Card,Cancelled
+1299,C038,Timothy Rodriguez,P003,Running Shoes,Sportswear,3,60.0,180.0,2024-07-02,Credit Card,Delivered
+1300,C030,Thomas Jones,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-10-30,Debit Card,Processing
+1301,C048,Philip Campbell,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-03-16,PayPal,Delivered
+1302,C050,Leslie Powell,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-11-30,Debit Card,Cancelled
+1303,C024,Darren Ortiz,P008,Backpack,Fashion,2,40.0,80.0,2025-02-16,Debit Card,Processing
+1304,C041,Michael Bell,P005,Yoga Mat,Sportswear,3,30.0,90.0,2024-03-10,Debit Card,Delivered
+1305,C038,Allison Hernandez,P008,Backpack,Fashion,1,40.0,40.0,2024-07-24,PayPal,Processing
+1306,C013,Linda Floyd,P004,Smartphone,Electronics,3,500.0,1500.0,2024-09-16,PayPal,Delivered
+1307,C015,Jillian Ashley,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-07-23,Credit Card,Processing
+1308,C030,Trevor Moore,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-02-29,Credit Card,Shipped
+1309,C021,Kelly Baker,P004,Smartphone,Electronics,2,500.0,1000.0,2024-06-25,Credit Card,Processing
+1310,C042,Mark Mendoza,P008,Backpack,Fashion,4,40.0,160.0,2024-09-13,PayPal,Processing
+1311,C040,Jeffrey Velez,P005,Yoga Mat,Sportswear,2,30.0,60.0,2024-03-27,Credit Card,Processing
+1312,C028,Stephanie Stanley,P004,Smartphone,Electronics,5,500.0,2500.0,2024-08-07,PayPal,Delivered
+1313,C028,Ann Parker,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-07-25,Credit Card,Delivered
+1314,C011,Kathy Buchanan,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-07-06,Credit Card,Cancelled
+1315,C029,Jennifer Daniels,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-04-11,Credit Card,Processing
+1316,C005,Angel Braun,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-03-17,Debit Card,Cancelled
+1317,C043,Heather Elliott,P005,Yoga Mat,Sportswear,2,30.0,60.0,2024-12-04,PayPal,Shipped
+1318,C001,Michael Harris,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-08-24,Debit Card,Shipped
+1319,C048,Christopher Howard,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-07-03,PayPal,Shipped
+1320,C043,Christina Mann,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-08-13,Credit Card,Processing
+1321,C021,Kathleen Clark,P003,Running Shoes,Sportswear,1,60.0,60.0,2024-12-13,Debit Card,Cancelled
+1322,C019,Tyler Gibson,P003,Running Shoes,Sportswear,5,60.0,300.0,2025-02-16,Credit Card,Processing
+1323,C017,David Gregory,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-10-06,PayPal,Delivered
+1324,C004,Adam Brown,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-04-05,Debit Card,Shipped
+1325,C050,Jessica Silva,P005,Yoga Mat,Sportswear,5,30.0,150.0,2025-02-12,PayPal,Cancelled
+1326,C022,Rebecca Hernandez,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-03-04,Credit Card,Processing
+1327,C001,Ronnie Morton,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-03-09,Debit Card,Shipped
+1328,C004,Rebecca Richardson,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-07-28,Credit Card,Processing
+1329,C003,Mr. Gary Reeves,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-08-13,Credit Card,Cancelled
+1330,C013,Deborah Preston,P003,Running Shoes,Sportswear,1,60.0,60.0,2024-04-27,Debit Card,Processing
+1331,C044,Monica Morales,P004,Smartphone,Electronics,2,500.0,1000.0,2024-05-25,Credit Card,Cancelled
+1332,C019,Dawn Knight,P004,Smartphone,Electronics,4,500.0,2000.0,2025-01-24,Debit Card,Processing
+1333,C017,April Miller,P001,Wireless Mouse,Electronics,2,25.0,50.0,2025-01-04,Credit Card,Processing
+1334,C007,Tony Thomas,P006,LED Monitor,Electronics,4,200.0,800.0,2024-04-04,Debit Card,Cancelled
+1335,C009,Barry Ray,P006,LED Monitor,Electronics,3,200.0,600.0,2024-08-25,Credit Card,Cancelled
+1336,C001,Jay Johnson,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-05-24,PayPal,Delivered
+1337,C018,Diana Garza,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-03-04,Credit Card,Delivered
+1338,C041,Matthew Norman,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-03-27,Credit Card,Delivered
+1339,C039,Jeffrey Herrera,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-11-05,PayPal,Delivered
+1340,C008,Michael Conley,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-12-07,Debit Card,Delivered
+1341,C049,Joseph Adams,P004,Smartphone,Electronics,4,500.0,2000.0,2024-08-30,PayPal,Processing
+1342,C006,Andrew Leonard,P001,Wireless Mouse,Electronics,1,25.0,25.0,2024-05-10,PayPal,Shipped
+1343,C024,Amy Gonzales,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-10-16,PayPal,Cancelled
+1344,C022,Amanda Miller,P005,Yoga Mat,Sportswear,5,30.0,150.0,2024-09-23,Debit Card,Shipped
+1345,C013,Shawn Stone,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-11-10,Debit Card,Shipped
+1346,C012,Joseph White,P003,Running Shoes,Sportswear,4,60.0,240.0,2025-01-14,PayPal,Delivered
+1347,C035,Jennifer Madden,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-04-21,Debit Card,Delivered
+1348,C027,Charles Yu,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-03-12,PayPal,Cancelled
+1349,C035,Kim Ramsey,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-11-22,Debit Card,Delivered
+1350,C033,Elizabeth Smith,P004,Smartphone,Electronics,1,500.0,500.0,2024-09-02,PayPal,Processing
+1351,C038,Michelle Smith,P008,Backpack,Fashion,2,40.0,80.0,2024-07-08,Credit Card,Shipped
+1352,C025,Valerie Nunez,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-10-08,Debit Card,Cancelled
+1353,C027,Carly Nelson,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-10-29,Debit Card,Cancelled
+1354,C021,Sara Kim,P003,Running Shoes,Sportswear,3,60.0,180.0,2025-02-15,PayPal,Shipped
+1355,C018,Nicholas Ellis,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-08-27,PayPal,Delivered
+1356,C033,Allison Hunter,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-04-24,PayPal,Delivered
+1357,C004,Shawna Boyd,P004,Smartphone,Electronics,4,500.0,2000.0,2025-01-03,PayPal,Delivered
+1358,C007,Susan Hutchinson,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2025-02-05,Credit Card,Delivered
+1359,C019,Gabriel Arias,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-05-18,Credit Card,Delivered
+1360,C041,Jason Morton,P004,Smartphone,Electronics,1,500.0,500.0,2024-04-11,Debit Card,Processing
+1361,C032,Brianna Mcknight,P007,Coffee Maker,Home Appliances,3,100.0,300.0,2024-04-12,Credit Card,Delivered
+1362,C042,Dawn Garza,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-05-21,Credit Card,Shipped
+1363,C047,Maria Stewart,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-10-15,Debit Card,Shipped
+1364,C024,Jordan Lopez,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-12-23,Credit Card,Delivered
+1365,C010,Christopher Steele,P006,LED Monitor,Electronics,1,200.0,200.0,2024-08-18,Debit Card,Processing
+1366,C009,Bruce Howe,P005,Yoga Mat,Sportswear,5,30.0,150.0,2025-02-01,PayPal,Cancelled
+1367,C016,Andrea Jenkins,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-03-20,PayPal,Processing
+1368,C008,Mark Ross,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-09-06,Debit Card,Processing
+1369,C001,Jennifer Salazar,P004,Smartphone,Electronics,1,500.0,500.0,2024-11-26,Debit Card,Processing
+1370,C027,Larry Murphy,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-11-01,Debit Card,Delivered
+1371,C032,Christine Byrd,P006,LED Monitor,Electronics,3,200.0,600.0,2024-07-12,Debit Card,Delivered
+1372,C001,Kenneth Deleon,P008,Backpack,Fashion,5,40.0,200.0,2025-02-14,PayPal,Shipped
+1373,C039,Daniel Vang,P004,Smartphone,Electronics,4,500.0,2000.0,2025-02-14,Debit Card,Shipped
+1374,C049,April Skinner,P008,Backpack,Fashion,1,40.0,40.0,2024-09-09,Credit Card,Processing
+1375,C003,David Patel,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-05-17,Credit Card,Processing
+1376,C038,Joshua Waller MD,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-03-02,Debit Card,Cancelled
+1377,C029,Rebecca Hernandez,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-12-09,Debit Card,Cancelled
+1378,C023,Lisa Bartlett,P008,Backpack,Fashion,3,40.0,120.0,2024-07-08,Debit Card,Delivered
+1379,C020,Omar Ferguson,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2025-01-15,Credit Card,Shipped
+1380,C040,Loretta Rice,P007,Coffee Maker,Home Appliances,3,100.0,300.0,2024-12-08,PayPal,Shipped
+1381,C005,Juan Jarvis,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-08-30,Debit Card,Processing
+1382,C028,Darius Butler,P004,Smartphone,Electronics,4,500.0,2000.0,2024-04-16,Debit Card,Delivered
+1383,C019,Phillip Green,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-04-10,Credit Card,Shipped
+1384,C040,Alexis Blevins,P008,Backpack,Fashion,5,40.0,200.0,2025-02-14,PayPal,Cancelled
+1385,C047,Timothy Ray,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-06-04,PayPal,Cancelled
+1386,C022,Cynthia Boyd,P008,Backpack,Fashion,4,40.0,160.0,2025-01-30,PayPal,Delivered
+1387,C021,Brendan Miller,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-10-30,Debit Card,Processing
+1388,C002,David Hart,P008,Backpack,Fashion,2,40.0,80.0,2024-08-16,PayPal,Cancelled
+1389,C036,Jeffrey Anderson,P004,Smartphone,Electronics,4,500.0,2000.0,2024-02-24,PayPal,Processing
+1390,C009,Deborah Colon,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-10-13,Debit Card,Delivered
+1391,C045,Eric Jones,P008,Backpack,Fashion,3,40.0,120.0,2024-05-11,Credit Card,Cancelled
+1392,C029,Parker Roman,P008,Backpack,Fashion,1,40.0,40.0,2024-05-02,PayPal,Processing
+1393,C004,Robert Webb,P004,Smartphone,Electronics,4,500.0,2000.0,2024-08-19,Debit Card,Delivered
+1394,C017,Kathleen Harper,P008,Backpack,Fashion,4,40.0,160.0,2024-09-24,Debit Card,Cancelled
+1395,C008,James Church,P008,Backpack,Fashion,1,40.0,40.0,2025-01-19,PayPal,Shipped
+1396,C011,Danny Ingram,P008,Backpack,Fashion,2,40.0,80.0,2024-02-19,Credit Card,Processing
+1397,C003,Devin Nguyen,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-11-13,PayPal,Processing
+1398,C046,Anthony Martin,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-07-05,Debit Card,Processing
+1399,C036,Heather Ellis DDS,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-02-26,PayPal,Processing
+1400,C043,Jeffrey Carr,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-07-23,Credit Card,Shipped
+1401,C001,Steve Cohen,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-10-30,Credit Card,Delivered
+1402,C043,Sabrina Ramirez,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-07-16,PayPal,Shipped
+1403,C034,Elizabeth Meyer,P004,Smartphone,Electronics,4,500.0,2000.0,2024-03-22,Credit Card,Delivered
+1404,C033,Kathy May,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-08-04,PayPal,Processing
+1405,C050,Shaun Gibson,P003,Running Shoes,Sportswear,3,60.0,180.0,2024-08-10,PayPal,Processing
+1406,C048,Sarah Warren,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-08-05,Credit Card,Delivered
+1407,C044,Samuel Kim,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-10-08,PayPal,Cancelled
+1408,C001,Jessica James,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2025-01-13,Debit Card,Cancelled
+1409,C046,Nicholas Griffin,P006,LED Monitor,Electronics,2,200.0,400.0,2024-02-27,Credit Card,Delivered
+1410,C023,Samuel Howard,P003,Running Shoes,Sportswear,1,60.0,60.0,2025-02-10,Credit Card,Shipped
+1411,C002,Dawn Banks,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-09-11,Debit Card,Cancelled
+1412,C044,Pedro Richardson,P006,LED Monitor,Electronics,2,200.0,400.0,2024-05-25,Debit Card,Delivered
+1413,C039,Matthew Kaufman,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2024-10-02,PayPal,Shipped
+1414,C037,Michael Rhodes,P006,LED Monitor,Electronics,1,200.0,200.0,2024-06-24,Credit Card,Cancelled
+1415,C021,Heather Kim DDS,P004,Smartphone,Electronics,2,500.0,1000.0,2024-05-06,PayPal,Shipped
+1416,C048,Jacqueline Adams,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-06-22,PayPal,Processing
+1417,C045,Robert Chaney,P005,Yoga Mat,Sportswear,5,30.0,150.0,2024-11-05,Credit Card,Cancelled
+1418,C045,Maureen Salazar,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-12-01,PayPal,Delivered
+1419,C003,Carrie Flores,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-06-23,Debit Card,Delivered
+1420,C013,Jack Bell,P007,Coffee Maker,Home Appliances,3,100.0,300.0,2025-01-24,PayPal,Processing
+1421,C041,Deborah Graham,P006,LED Monitor,Electronics,3,200.0,600.0,2024-10-18,Credit Card,Processing
+1422,C047,Timothy Potter,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-11-04,Credit Card,Shipped
+1423,C007,Kylie Landry DDS,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-12-14,Credit Card,Processing
+1424,C042,Kayla Simmons DVM,P008,Backpack,Fashion,3,40.0,120.0,2024-07-17,Credit Card,Processing
+1425,C026,Debra Lewis,P004,Smartphone,Electronics,1,500.0,500.0,2024-03-20,PayPal,Delivered
+1426,C001,Tyler Trujillo,P006,LED Monitor,Electronics,4,200.0,800.0,2024-03-10,Debit Card,Delivered
+1427,C034,Elizabeth Liu,P006,LED Monitor,Electronics,2,200.0,400.0,2024-06-26,PayPal,Cancelled
+1428,C035,Scott West,P004,Smartphone,Electronics,2,500.0,1000.0,2024-10-21,Debit Card,Cancelled
+1429,C008,Sarah Hughes,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-11-03,PayPal,Cancelled
+1430,C036,John Ramirez,P006,LED Monitor,Electronics,3,200.0,600.0,2024-07-27,Credit Card,Delivered
+1431,C032,Lisa Cantu,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-06-26,Credit Card,Cancelled
+1432,C035,Ryan Miller,P004,Smartphone,Electronics,2,500.0,1000.0,2024-02-22,Debit Card,Shipped
+1433,C020,Carrie Davis,P004,Smartphone,Electronics,3,500.0,1500.0,2024-09-09,Debit Card,Shipped
+1434,C050,Sarah Henderson,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-04-01,Credit Card,Shipped
+1435,C033,Emily Martin,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-07-05,PayPal,Delivered
+1436,C001,Dennis Parrish,P004,Smartphone,Electronics,3,500.0,1500.0,2024-11-18,PayPal,Processing
+1437,C032,Phillip Chaney,P001,Wireless Mouse,Electronics,1,25.0,25.0,2025-02-06,Debit Card,Delivered
+1438,C036,Cathy Hudson,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-04-19,Debit Card,Cancelled
+1439,C022,Lee Krause,P005,Yoga Mat,Sportswear,5,30.0,150.0,2024-03-15,Debit Card,Shipped
+1440,C017,Robin Smith,P006,LED Monitor,Electronics,2,200.0,400.0,2024-03-22,Credit Card,Cancelled
+1441,C028,Luis Williams,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-09-25,PayPal,Shipped
+1442,C045,Shannon Wang,P008,Backpack,Fashion,3,40.0,120.0,2024-10-12,PayPal,Processing
+1443,C049,Matthew Thomas,P004,Smartphone,Electronics,1,500.0,500.0,2024-04-09,Debit Card,Delivered
+1444,C030,Jordan Allen,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-08-07,Debit Card,Cancelled
+1445,C044,Felicia Lambert,P008,Backpack,Fashion,1,40.0,40.0,2025-01-22,Debit Card,Processing
+1446,C025,Brittany Thomas,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-12-02,Debit Card,Shipped
+1447,C036,Gabriel Rodriguez,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-03-22,Debit Card,Cancelled
+1448,C020,Tammy Pierce,P001,Wireless Mouse,Electronics,3,25.0,75.0,2025-01-08,Credit Card,Delivered
+1449,C010,Gail Horne,P006,LED Monitor,Electronics,2,200.0,400.0,2024-07-03,Debit Card,Shipped
+1450,C031,Justin Garcia,P004,Smartphone,Electronics,5,500.0,2500.0,2025-02-13,Credit Card,Processing
+1451,C033,Brian Coleman,P006,LED Monitor,Electronics,5,200.0,1000.0,2024-04-24,PayPal,Shipped
+1452,C040,Thomas Moore,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-10-03,PayPal,Processing
+1453,C016,Mitchell Welch,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-11-08,Credit Card,Processing
+1454,C034,Joy Martinez,P001,Wireless Mouse,Electronics,1,25.0,25.0,2024-12-13,Debit Card,Cancelled
+1455,C017,Brian Hill,P003,Running Shoes,Sportswear,1,60.0,60.0,2025-01-17,PayPal,Delivered
+1456,C030,Charles Smith,P003,Running Shoes,Sportswear,1,60.0,60.0,2024-02-20,Credit Card,Cancelled
+1457,C004,Ralph Wilkerson,P008,Backpack,Fashion,2,40.0,80.0,2025-02-02,PayPal,Shipped
+1458,C048,Amanda Mckenzie,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2024-05-12,Credit Card,Delivered
+1459,C032,Shaun Moore,P005,Yoga Mat,Sportswear,5,30.0,150.0,2024-07-20,PayPal,Shipped
+1460,C031,Erica Young,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-09-13,Credit Card,Processing
+1461,C043,Meghan Walters,P004,Smartphone,Electronics,4,500.0,2000.0,2024-09-12,Debit Card,Delivered
+1462,C033,Megan Cobb,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-10-28,Debit Card,Shipped
+1463,C015,Raymond Chapman,P006,LED Monitor,Electronics,1,200.0,200.0,2024-02-25,PayPal,Delivered
+1464,C039,John Bishop,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-03-08,Debit Card,Cancelled
+1465,C045,Christine King,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-06-11,PayPal,Shipped
+1466,C044,Melissa Russell,P008,Backpack,Fashion,2,40.0,80.0,2024-06-04,Credit Card,Processing
+1467,C022,Joseph Shepherd,P008,Backpack,Fashion,4,40.0,160.0,2024-11-15,Credit Card,Processing
+1468,C049,Jessica Harris,P007,Coffee Maker,Home Appliances,3,100.0,300.0,2024-10-10,Credit Card,Cancelled
+1469,C045,Lindsay Lee,P008,Backpack,Fashion,4,40.0,160.0,2024-12-09,PayPal,Cancelled
+1470,C030,Christina Haney,P008,Backpack,Fashion,2,40.0,80.0,2025-02-08,Debit Card,Shipped
+1471,C030,Anna Mercado,P008,Backpack,Fashion,4,40.0,160.0,2024-09-12,Credit Card,Processing
+1472,C007,Sandra Smith,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-10-18,Debit Card,Processing
+1473,C036,Joshua Zimmerman,P004,Smartphone,Electronics,2,500.0,1000.0,2024-05-24,PayPal,Cancelled
+1474,C003,Michael Wagner,P008,Backpack,Fashion,3,40.0,120.0,2024-12-02,Debit Card,Delivered
+1475,C033,Anna Hancock,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-07-09,PayPal,Shipped
+1476,C006,Arthur Johnson,P008,Backpack,Fashion,4,40.0,160.0,2024-11-14,Debit Card,Delivered
+1477,C025,Kevin Nichols,P004,Smartphone,Electronics,4,500.0,2000.0,2024-03-15,Debit Card,Delivered
+1478,C047,Terri Vaughn,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-05-17,Credit Card,Cancelled
+1479,C010,Rachel Brown,P005,Yoga Mat,Sportswear,3,30.0,90.0,2024-07-16,Debit Card,Shipped
+1480,C007,Katherine Peterson,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-11-22,Credit Card,Processing
+1481,C043,Audrey Guerra,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2025-01-27,Credit Card,Shipped
+1482,C036,Jillian Evans,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2025-02-15,Credit Card,Shipped
+1483,C029,Margaret Lopez,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-10-10,PayPal,Processing
+1484,C038,Mr. Daniel Thomas,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-08-22,PayPal,Processing
+1485,C018,Eric Walton,P005,Yoga Mat,Sportswear,3,30.0,90.0,2024-05-15,Credit Card,Delivered
+1486,C007,Tracy Kim,P004,Smartphone,Electronics,2,500.0,1000.0,2024-06-25,Credit Card,Cancelled
+1487,C035,Donna Reese,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2024-10-21,Debit Card,Shipped
+1488,C038,Lindsay Rowe,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-10-07,Debit Card,Processing
+1489,C028,John Parker,P003,Running Shoes,Sportswear,3,60.0,180.0,2024-10-21,Credit Card,Cancelled
+1490,C046,Tammy Howell,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-07-11,Credit Card,Processing
+1491,C031,Glenda Smith,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-11-17,PayPal,Delivered
+1492,C032,Tiffany Dillon,P006,LED Monitor,Electronics,2,200.0,400.0,2024-10-03,PayPal,Processing
+1493,C022,James Douglas,P008,Backpack,Fashion,3,40.0,120.0,2024-02-24,Debit Card,Processing
+1494,C046,Kristen Diaz,P006,LED Monitor,Electronics,4,200.0,800.0,2024-09-10,PayPal,Processing
+1495,C046,John Liu,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-04-13,Debit Card,Shipped
+1496,C020,David Wilson,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2024-12-09,Debit Card,Cancelled
+1497,C014,Frank Ortega,P006,LED Monitor,Electronics,4,200.0,800.0,2024-11-06,Credit Card,Delivered
+1498,C008,Joshua Mckinney Jr.,P005,Yoga Mat,Sportswear,2,30.0,60.0,2025-01-26,PayPal,Delivered
+1499,C016,Arthur Bush,P008,Backpack,Fashion,4,40.0,160.0,2024-11-05,PayPal,Cancelled
+1500,C039,Matthew Miller,P008,Backpack,Fashion,3,40.0,120.0,2024-07-24,Credit Card,Cancelled
+1501,C046,Mackenzie Morrison,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-09-28,Debit Card,Delivered
+1502,C044,Charles Salazar,P006,LED Monitor,Electronics,1,200.0,200.0,2024-07-18,Debit Card,Delivered
+1503,C038,Cheyenne Morgan,P001,Wireless Mouse,Electronics,2,25.0,50.0,2025-02-02,Credit Card,Cancelled
+1504,C009,John French,P006,LED Monitor,Electronics,4,200.0,800.0,2024-04-06,Credit Card,Delivered
+1505,C013,Debra Vance,P008,Backpack,Fashion,2,40.0,80.0,2025-01-26,PayPal,Processing
+1506,C025,Joseph Smith,P008,Backpack,Fashion,2,40.0,80.0,2024-06-21,Credit Card,Shipped
+1507,C030,Jacqueline Jones,P003,Running Shoes,Sportswear,3,60.0,180.0,2024-05-30,Credit Card,Shipped
+1508,C020,Monica Orr,P004,Smartphone,Electronics,4,500.0,2000.0,2024-11-01,Credit Card,Delivered
+1509,C007,Brandon Owens,P005,Yoga Mat,Sportswear,3,30.0,90.0,2024-11-06,Credit Card,Shipped
+1510,C046,Brian Gates,P008,Backpack,Fashion,2,40.0,80.0,2024-03-24,Credit Card,Cancelled
+1511,C033,David Francis,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-03-09,Debit Card,Cancelled
+1512,C045,Karen Salazar,P008,Backpack,Fashion,5,40.0,200.0,2024-12-20,Credit Card,Processing
+1513,C022,Sarah Mendoza,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2025-01-30,Credit Card,Delivered
+1514,C042,Jennifer Phillips,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-08-08,PayPal,Processing
+1515,C011,Heather Anderson,P006,LED Monitor,Electronics,1,200.0,200.0,2024-11-16,Debit Card,Delivered
+1516,C048,Lisa Tucker,P004,Smartphone,Electronics,1,500.0,500.0,2024-02-18,Debit Card,Shipped
+1517,C011,Rebecca Smith,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-03-23,PayPal,Delivered
+1518,C014,Julie Gamble,P005,Yoga Mat,Sportswear,4,30.0,120.0,2025-01-17,PayPal,Processing
+1519,C005,Donna Frank,P006,LED Monitor,Electronics,3,200.0,600.0,2024-09-17,PayPal,Shipped
+1520,C041,Julian Thomas,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-03-06,PayPal,Cancelled
+1521,C015,Valerie Lindsey,P004,Smartphone,Electronics,1,500.0,500.0,2024-06-27,PayPal,Cancelled
+1522,C041,Samantha Ward,P008,Backpack,Fashion,2,40.0,80.0,2024-07-25,Credit Card,Processing
+1523,C017,Ann Cooper,P008,Backpack,Fashion,1,40.0,40.0,2025-02-07,Debit Card,Processing
+1524,C009,Dr. Chad Higgins MD,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-11-21,Credit Card,Processing
+1525,C023,Emily Calderon,P004,Smartphone,Electronics,1,500.0,500.0,2024-05-11,PayPal,Cancelled
+1526,C036,Christine Nichols,P004,Smartphone,Electronics,5,500.0,2500.0,2024-04-19,PayPal,Shipped
+1527,C023,James Thomas,P008,Backpack,Fashion,3,40.0,120.0,2024-05-10,Debit Card,Delivered
+1528,C011,Sarah Banks,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-06-10,PayPal,Delivered
+1529,C006,Amy Harris,P005,Yoga Mat,Sportswear,3,30.0,90.0,2024-04-05,Debit Card,Cancelled
+1530,C011,Michael Merritt,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-07-11,Credit Card,Cancelled
+1531,C012,Michael Salas,P003,Running Shoes,Sportswear,1,60.0,60.0,2024-11-09,Credit Card,Cancelled
+1532,C007,Jason Hudson,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-05-20,Debit Card,Delivered
+1533,C034,Zachary Rivera,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-04-30,Credit Card,Processing
+1534,C010,Brian Thompson,P004,Smartphone,Electronics,1,500.0,500.0,2024-11-25,PayPal,Delivered
+1535,C040,Duane Roberts,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-10-28,PayPal,Processing
+1536,C032,Christopher Wang,P004,Smartphone,Electronics,1,500.0,500.0,2024-09-12,Debit Card,Processing
+1537,C031,Savannah Curry MD,P004,Smartphone,Electronics,1,500.0,500.0,2024-09-17,Credit Card,Delivered
+1538,C008,John Willis,P001,Wireless Mouse,Electronics,1,25.0,25.0,2024-06-24,Credit Card,Processing
+1539,C001,David Davis,P007,Coffee Maker,Home Appliances,3,100.0,300.0,2024-12-01,Debit Card,Shipped
+1540,C016,Ashley Green,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-05-10,Credit Card,Processing
+1541,C047,James Green,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-03-30,Credit Card,Processing
+1542,C048,Patricia Harrington,P006,LED Monitor,Electronics,2,200.0,400.0,2024-04-01,Credit Card,Processing
+1543,C044,Dominique Lara,P005,Yoga Mat,Sportswear,2,30.0,60.0,2024-07-11,PayPal,Shipped
+1544,C023,Robert Parks,P004,Smartphone,Electronics,1,500.0,500.0,2024-04-24,PayPal,Shipped
+1545,C009,Mr. Richard Brown,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2025-02-16,PayPal,Shipped
+1546,C012,Frederick Vargas,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-08-27,PayPal,Processing
+1547,C016,Rhonda Ball,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-06-25,PayPal,Delivered
+1548,C015,Patrick Howard,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-11-01,PayPal,Processing
+1549,C012,Bailey Vargas,P006,LED Monitor,Electronics,2,200.0,400.0,2024-11-07,PayPal,Shipped
+1550,C008,Kelly Cox,P003,Running Shoes,Sportswear,1,60.0,60.0,2024-07-14,PayPal,Processing
+1551,C011,James Newman,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-02-22,Credit Card,Processing
+1552,C045,Kimberly Stout,P001,Wireless Mouse,Electronics,1,25.0,25.0,2024-04-12,Debit Card,Cancelled
+1553,C017,Lauren Palmer,P008,Backpack,Fashion,5,40.0,200.0,2024-10-15,Debit Card,Cancelled
+1554,C033,Angela Bailey,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-09-28,Debit Card,Processing
+1555,C041,Michael Tran,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-09-13,PayPal,Cancelled
+1556,C039,Susan Graham,P003,Running Shoes,Sportswear,2,60.0,120.0,2025-01-15,Debit Card,Shipped
+1557,C036,Monique Brown,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-11-06,Credit Card,Delivered
+1558,C050,Jason Chaney,P003,Running Shoes,Sportswear,3,60.0,180.0,2024-06-24,Credit Card,Cancelled
+1559,C050,Jay Owens,P003,Running Shoes,Sportswear,1,60.0,60.0,2024-02-22,PayPal,Processing
+1560,C010,Douglas Mercado,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-06-15,PayPal,Delivered
+1561,C022,Steven Dodson,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-10-02,Credit Card,Shipped
+1562,C021,Glenn Perez,P001,Wireless Mouse,Electronics,1,25.0,25.0,2024-02-23,Credit Card,Processing
+1563,C017,Reginald Hamilton,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-08-22,Credit Card,Delivered
+1564,C019,Debbie Bradshaw,P008,Backpack,Fashion,5,40.0,200.0,2024-11-08,Debit Card,Processing
+1565,C047,Heather Jefferson,P008,Backpack,Fashion,2,40.0,80.0,2024-03-25,PayPal,Processing
+1566,C036,Brittney Gutierrez,P004,Smartphone,Electronics,1,500.0,500.0,2024-10-29,PayPal,Shipped
+1567,C002,April Harrell,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-04-02,Debit Card,Delivered
+1568,C044,Ryan Diaz,P008,Backpack,Fashion,2,40.0,80.0,2024-09-09,PayPal,Delivered
+1569,C046,Daniel Jones,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-07-17,Credit Card,Delivered
+1570,C046,Jennifer Allen,P004,Smartphone,Electronics,4,500.0,2000.0,2024-11-15,Debit Card,Processing
+1571,C006,Julie Ritter,P003,Running Shoes,Sportswear,3,60.0,180.0,2024-05-14,Credit Card,Delivered
+1572,C033,Jeremy White,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2025-01-15,PayPal,Processing
+1573,C028,Patrick Wallace,P006,LED Monitor,Electronics,1,200.0,200.0,2024-11-30,PayPal,Shipped
+1574,C026,Brent Norman,P008,Backpack,Fashion,3,40.0,120.0,2024-08-27,PayPal,Delivered
+1575,C016,Meghan Anderson,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-07-14,Credit Card,Cancelled
+1576,C031,Brittany Jackson,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2025-01-13,Debit Card,Cancelled
+1577,C016,Andrew Fowler,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-04-14,Debit Card,Cancelled
+1578,C032,Kevin Jackson,P003,Running Shoes,Sportswear,1,60.0,60.0,2024-07-28,Credit Card,Delivered
+1579,C014,Jody Russo,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-12-19,PayPal,Delivered
+1580,C024,Sara Arnold,P008,Backpack,Fashion,3,40.0,120.0,2024-07-10,PayPal,Delivered
+1581,C002,Sean Young,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-07-25,Credit Card,Processing
+1582,C014,Christopher Lopez,P005,Yoga Mat,Sportswear,2,30.0,60.0,2025-01-27,Credit Card,Cancelled
+1583,C043,Angela Bautista,P008,Backpack,Fashion,4,40.0,160.0,2024-02-22,Credit Card,Shipped
+1584,C033,Ashley Martin,P006,LED Monitor,Electronics,1,200.0,200.0,2024-07-13,Credit Card,Cancelled
+1585,C026,Mrs. Dawn Robertson DDS,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-09-23,Debit Card,Cancelled
+1586,C005,Howard Key,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-12-17,Debit Card,Delivered
+1587,C029,Brittany Stokes,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-03-15,Credit Card,Shipped
+1588,C034,Samuel Ayala,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-08-04,Credit Card,Delivered
+1589,C049,Aaron Cruz,P005,Yoga Mat,Sportswear,3,30.0,90.0,2024-12-28,Debit Card,Processing
+1590,C020,Nicholas Bishop,P004,Smartphone,Electronics,5,500.0,2500.0,2024-09-13,Debit Card,Delivered
+1591,C003,Jennifer French,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-12-12,Debit Card,Shipped
+1592,C005,Ashley Summers,P008,Backpack,Fashion,2,40.0,80.0,2024-03-04,PayPal,Shipped
+1593,C005,Chris Harrington,P006,LED Monitor,Electronics,5,200.0,1000.0,2024-06-10,PayPal,Delivered
+1594,C033,Justin Hardy,P008,Backpack,Fashion,5,40.0,200.0,2024-04-30,Credit Card,Delivered
+1595,C031,Joshua Rhodes,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-08-02,PayPal,Cancelled
+1596,C010,Robert Crawford,P004,Smartphone,Electronics,3,500.0,1500.0,2024-07-13,Credit Card,Shipped
+1597,C030,Scott Barrett,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2025-02-14,Credit Card,Processing
+1598,C027,Melissa Baxter,P004,Smartphone,Electronics,1,500.0,500.0,2024-08-16,PayPal,Cancelled
+1599,C015,Brian Brown,P005,Yoga Mat,Sportswear,3,30.0,90.0,2024-03-04,PayPal,Delivered
+1600,C035,Nathan Palmer,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-05-14,Debit Card,Delivered
+1601,C044,Joanna Larson,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-06-14,PayPal,Processing
+1602,C019,Sara Hendrix,P004,Smartphone,Electronics,4,500.0,2000.0,2024-04-20,Debit Card,Processing
+1603,C043,Kristy Howard,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-09-04,Credit Card,Cancelled
+1604,C008,Leslie Thompson,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-10-23,Debit Card,Delivered
+1605,C003,Ian Davis,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2024-08-18,PayPal,Processing
+1606,C049,Francisco Gomez,P005,Yoga Mat,Sportswear,3,30.0,90.0,2024-04-26,Credit Card,Processing
+1607,C043,Sarah Hopkins,P008,Backpack,Fashion,5,40.0,200.0,2024-09-04,Credit Card,Delivered
+1608,C025,Tracey Garcia,P006,LED Monitor,Electronics,3,200.0,600.0,2024-08-06,Debit Card,Processing
+1609,C044,Katrina Ramirez,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-04-11,PayPal,Delivered
+1610,C050,Robert Gardner,P004,Smartphone,Electronics,3,500.0,1500.0,2025-01-28,PayPal,Cancelled
+1611,C037,Daniel Hammond,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-12-07,Credit Card,Cancelled
+1612,C034,Bruce Edwards,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-04-23,PayPal,Delivered
+1613,C022,Lisa Mcdaniel,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-11-21,PayPal,Shipped
+1614,C003,Marissa Mcgee,P004,Smartphone,Electronics,2,500.0,1000.0,2024-10-03,Debit Card,Cancelled
+1615,C007,Dustin Hunter,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-09-30,Credit Card,Processing
+1616,C042,Donna Rogers,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-07-27,Debit Card,Cancelled
+1617,C023,Felicia Peters,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2024-05-01,PayPal,Cancelled
+1618,C019,Timothy Miller,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2025-01-10,Credit Card,Processing
+1619,C004,Annette Thompson,P006,LED Monitor,Electronics,5,200.0,1000.0,2024-02-26,Debit Card,Processing
+1620,C028,Angela Mercer,P001,Wireless Mouse,Electronics,1,25.0,25.0,2024-06-09,PayPal,Processing
+1621,C048,Jason Bennett,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-04-18,PayPal,Cancelled
+1622,C005,Misty Gallagher,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-11-02,Debit Card,Processing
+1623,C010,Robin Kirby,P008,Backpack,Fashion,1,40.0,40.0,2024-11-02,Debit Card,Delivered
+1624,C009,Gary Rodriguez,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-03-28,PayPal,Shipped
+1625,C039,Edward Whitaker,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-05-31,Credit Card,Shipped
+1626,C012,Jennifer Mendoza,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-09-02,Debit Card,Cancelled
+1627,C010,James Miller,P004,Smartphone,Electronics,5,500.0,2500.0,2024-10-18,Credit Card,Cancelled
+1628,C030,Timothy Best,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-09-22,Debit Card,Shipped
+1629,C013,Laura Jones,P008,Backpack,Fashion,5,40.0,200.0,2024-12-21,Debit Card,Delivered
+1630,C016,Mckenzie Johnson,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-12-11,Debit Card,Shipped
+1631,C016,Susan Ramos,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-09-21,Debit Card,Delivered
+1632,C003,Brenda Cook,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-08-26,PayPal,Cancelled
+1633,C042,Dr. Cynthia Thompson MD,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2025-01-03,PayPal,Shipped
+1634,C034,Caitlyn Stanton,P007,Coffee Maker,Home Appliances,3,100.0,300.0,2024-11-24,PayPal,Processing
+1635,C039,Ms. Katelyn Howard MD,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-10-09,PayPal,Cancelled
+1636,C028,Robert Haynes,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2025-01-08,PayPal,Shipped
+1637,C017,Brenda Zimmerman,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-05-03,Debit Card,Shipped
+1638,C003,Kevin Robinson,P005,Yoga Mat,Sportswear,2,30.0,60.0,2024-11-22,PayPal,Shipped
+1639,C038,Tonya Campos,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-10-02,Credit Card,Delivered
+1640,C022,Jamie Wong,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-08-25,Debit Card,Delivered
+1641,C049,Elizabeth Jensen,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2024-03-07,Credit Card,Delivered
+1642,C021,Valerie Foster,P001,Wireless Mouse,Electronics,1,25.0,25.0,2024-11-03,Credit Card,Delivered
+1643,C030,Michael Floyd,P004,Smartphone,Electronics,4,500.0,2000.0,2024-06-06,Debit Card,Cancelled
+1644,C012,Julia Steele,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-05-03,PayPal,Shipped
+1645,C028,Carol White,P006,LED Monitor,Electronics,5,200.0,1000.0,2024-04-10,Debit Card,Delivered
+1646,C040,Danielle Williams,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2024-05-16,Debit Card,Cancelled
+1647,C031,Ian Williamson,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-08-29,Credit Card,Delivered
+1648,C044,John Williams,P008,Backpack,Fashion,3,40.0,120.0,2025-01-18,Debit Card,Delivered
+1649,C010,Barbara Brown,P004,Smartphone,Electronics,3,500.0,1500.0,2024-03-11,PayPal,Cancelled
+1650,C019,Stephanie Chan,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-07-06,Debit Card,Cancelled
+1651,C030,Henry Smith,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-12-04,Credit Card,Processing
+1652,C038,Brittany Thomas,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-02-24,Debit Card,Cancelled
+1653,C001,Samantha Velasquez,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2025-01-15,PayPal,Cancelled
+1654,C030,Caleb Hart,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-07-20,Debit Card,Shipped
+1655,C010,Gina Sanchez,P003,Running Shoes,Sportswear,3,60.0,180.0,2024-05-02,PayPal,Cancelled
+1656,C046,Peter Lopez,P008,Backpack,Fashion,3,40.0,120.0,2024-10-01,PayPal,Shipped
+1657,C016,Katelyn Matthews,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-02-28,Credit Card,Cancelled
+1658,C017,Tonya Hill,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-09-05,Credit Card,Shipped
+1659,C048,Robert Jordan,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-06-18,Credit Card,Shipped
+1660,C047,Rose Smith,P006,LED Monitor,Electronics,4,200.0,800.0,2025-01-16,PayPal,Delivered
+1661,C043,Jeremy Johnson,P004,Smartphone,Electronics,5,500.0,2500.0,2024-04-28,Credit Card,Processing
+1662,C028,Shane Glass,P006,LED Monitor,Electronics,5,200.0,1000.0,2025-01-07,Credit Card,Delivered
+1663,C029,Michael Pearson,P004,Smartphone,Electronics,2,500.0,1000.0,2024-07-12,Credit Card,Delivered
+1664,C050,Kyle Evans,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-08-31,Debit Card,Shipped
+1665,C029,Kyle Clarke,P004,Smartphone,Electronics,1,500.0,500.0,2024-12-24,Debit Card,Shipped
+1666,C012,Lisa Rojas,P006,LED Monitor,Electronics,1,200.0,200.0,2025-02-03,Credit Card,Delivered
+1667,C001,Matthew Taylor,P008,Backpack,Fashion,2,40.0,80.0,2024-04-30,PayPal,Processing
+1668,C044,Nicole Estrada,P004,Smartphone,Electronics,1,500.0,500.0,2024-02-27,PayPal,Cancelled
+1669,C011,Alicia Chan,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-06-03,PayPal,Cancelled
+1670,C011,Colleen Webb,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-05-05,Credit Card,Delivered
+1671,C023,Leslie Estrada,P005,Yoga Mat,Sportswear,2,30.0,60.0,2024-11-14,PayPal,Delivered
+1672,C047,Erika Lopez,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-03-01,Debit Card,Cancelled
+1673,C006,Ruth Jackson,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-06-17,Credit Card,Shipped
+1674,C003,Tommy Hill,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-11-07,Debit Card,Processing
+1675,C036,Sergio Johnson,P003,Running Shoes,Sportswear,3,60.0,180.0,2024-07-25,PayPal,Cancelled
+1676,C008,David Delacruz,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-10-27,Credit Card,Cancelled
+1677,C020,Samuel Garcia,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2024-09-17,PayPal,Delivered
+1678,C008,Carla Mccoy,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-07-25,PayPal,Processing
+1679,C018,Patrick Freeman,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-04-10,Debit Card,Shipped
+1680,C024,Heidi Dixon,P003,Running Shoes,Sportswear,1,60.0,60.0,2024-11-19,Debit Card,Processing
+1681,C034,Claudia Anderson,P004,Smartphone,Electronics,1,500.0,500.0,2024-06-24,Debit Card,Shipped
+1682,C001,David Lester,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-05-21,PayPal,Delivered
+1683,C016,Andrew Le,P005,Yoga Mat,Sportswear,5,30.0,150.0,2024-08-07,Debit Card,Processing
+1684,C038,Lucas Kim,P006,LED Monitor,Electronics,3,200.0,600.0,2024-06-03,Credit Card,Shipped
+1685,C029,Garrett Christensen,P006,LED Monitor,Electronics,5,200.0,1000.0,2024-09-11,PayPal,Shipped
+1686,C049,Lisa Mccormick,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2025-02-16,Credit Card,Shipped
+1687,C004,Wendy Barnett,P008,Backpack,Fashion,1,40.0,40.0,2025-01-06,Credit Card,Shipped
+1688,C019,Johnny Lowery,P006,LED Monitor,Electronics,1,200.0,200.0,2024-10-23,Debit Card,Shipped
+1689,C025,Mary Davis,P007,Coffee Maker,Home Appliances,3,100.0,300.0,2024-03-14,Credit Card,Cancelled
+1690,C044,Rachel Bishop,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-11-08,PayPal,Delivered
+1691,C037,Melissa Kennedy,P008,Backpack,Fashion,2,40.0,80.0,2024-09-17,Debit Card,Processing
+1692,C019,Raymond Turner,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-09-17,Debit Card,Shipped
+1693,C012,Wesley Smith,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-12-08,PayPal,Delivered
+1694,C027,Jennifer Moreno,P004,Smartphone,Electronics,1,500.0,500.0,2024-11-14,Debit Card,Delivered
+1695,C049,Dale Simmons,P008,Backpack,Fashion,3,40.0,120.0,2024-12-30,Debit Card,Delivered
+1696,C007,Michael Richards,P003,Running Shoes,Sportswear,3,60.0,180.0,2024-07-04,PayPal,Cancelled
+1697,C004,Jeffrey Potter,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-07-14,PayPal,Delivered
+1698,C011,Dr. Todd Brady,P006,LED Monitor,Electronics,2,200.0,400.0,2024-03-04,Credit Card,Shipped
+1699,C044,Dr. Jason Moody,P006,LED Monitor,Electronics,1,200.0,200.0,2024-05-20,PayPal,Processing
+1700,C007,Ashley King,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-12-12,Debit Card,Delivered
+1701,C009,Amanda Sullivan,P006,LED Monitor,Electronics,5,200.0,1000.0,2024-08-24,Debit Card,Delivered
+1702,C050,Eric Hendricks,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-08-11,Debit Card,Cancelled
+1703,C030,Christina Cox,P006,LED Monitor,Electronics,2,200.0,400.0,2025-01-24,Credit Card,Cancelled
+1704,C038,Brett Clarke,P006,LED Monitor,Electronics,3,200.0,600.0,2024-07-29,PayPal,Shipped
+1705,C003,Laura Conway,P008,Backpack,Fashion,1,40.0,40.0,2024-05-02,PayPal,Delivered
+1706,C010,Joseph Ryan,P006,LED Monitor,Electronics,1,200.0,200.0,2024-04-09,Credit Card,Shipped
+1707,C045,Tami Mcgee,P005,Yoga Mat,Sportswear,2,30.0,60.0,2024-07-10,Debit Card,Cancelled
+1708,C024,Joseph Smith,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2024-08-19,Debit Card,Cancelled
+1709,C012,Sherry Morales,P004,Smartphone,Electronics,1,500.0,500.0,2024-03-21,PayPal,Delivered
+1710,C025,David Edwards,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-04-24,PayPal,Processing
+1711,C036,Mary Hill,P004,Smartphone,Electronics,2,500.0,1000.0,2025-01-12,Debit Card,Delivered
+1712,C049,Nathan Daniels,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-12-08,PayPal,Cancelled
+1713,C009,Bruce Edwards,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2024-03-25,Credit Card,Delivered
+1714,C017,Julia Malone,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-07-06,Debit Card,Processing
+1715,C049,Gloria Lloyd,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2025-01-11,PayPal,Shipped
+1716,C011,Joshua Duncan,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-09-10,Debit Card,Shipped
+1717,C014,Austin Beck,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-08-31,Credit Card,Cancelled
+1718,C016,Joel Perez,P008,Backpack,Fashion,4,40.0,160.0,2024-10-14,Credit Card,Cancelled
+1719,C027,Stephanie Dorsey,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-04-15,Debit Card,Delivered
+1720,C035,Amanda Pearson,P006,LED Monitor,Electronics,2,200.0,400.0,2024-09-27,PayPal,Processing
+1721,C009,Kayla Sullivan,P004,Smartphone,Electronics,3,500.0,1500.0,2024-09-16,PayPal,Shipped
+1722,C024,Aaron Evans,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-03-08,Debit Card,Delivered
+1723,C024,Danny Meza,P007,Coffee Maker,Home Appliances,3,100.0,300.0,2024-05-14,Credit Card,Cancelled
+1724,C016,Christopher Brown,P004,Smartphone,Electronics,5,500.0,2500.0,2024-07-31,PayPal,Processing
+1725,C019,Carla Taylor,P005,Yoga Mat,Sportswear,1,30.0,30.0,2025-01-06,PayPal,Processing
+1726,C044,Taylor Cook,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-09-02,Debit Card,Delivered
+1727,C004,Christina Callahan,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2024-11-16,Debit Card,Shipped
+1728,C047,Casey Williams,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-05-03,PayPal,Cancelled
+1729,C027,Raymond Burgess,P005,Yoga Mat,Sportswear,3,30.0,90.0,2024-04-16,Debit Card,Cancelled
+1730,C014,David Johnson,P004,Smartphone,Electronics,5,500.0,2500.0,2024-09-14,Debit Card,Processing
+1731,C011,Brian Smith,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-02-29,PayPal,Cancelled
+1732,C003,Juan Gray,P005,Yoga Mat,Sportswear,5,30.0,150.0,2024-09-18,Credit Card,Cancelled
+1733,C043,Jonathan Wilson,P008,Backpack,Fashion,2,40.0,80.0,2024-03-21,PayPal,Shipped
+1734,C037,Thomas Turner,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-04-13,Credit Card,Delivered
+1735,C025,Christopher Ryan,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-03-17,PayPal,Delivered
+1736,C026,Darrell Good,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-09-26,Debit Card,Shipped
+1737,C021,Kevin Woods,P008,Backpack,Fashion,3,40.0,120.0,2024-12-02,Credit Card,Shipped
+1738,C032,Nicholas Reeves,P008,Backpack,Fashion,2,40.0,80.0,2024-09-26,Credit Card,Cancelled
+1739,C026,Eric West,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-09-24,PayPal,Delivered
+1740,C047,Bryan Douglas,P006,LED Monitor,Electronics,4,200.0,800.0,2025-02-08,Credit Card,Shipped
+1741,C041,Brandy King,P008,Backpack,Fashion,2,40.0,80.0,2024-04-16,Debit Card,Processing
+1742,C046,Shane Bailey,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2025-01-14,PayPal,Shipped
+1743,C013,Sarah Hopkins,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-10-17,Credit Card,Delivered
+1744,C029,Michelle Grant,P003,Running Shoes,Sportswear,1,60.0,60.0,2024-11-20,PayPal,Cancelled
+1745,C017,Kelly Jordan,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-03-03,Credit Card,Delivered
+1746,C033,Christian Blevins,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-10-30,Credit Card,Shipped
+1747,C036,Melissa Obrien,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-08-20,Debit Card,Delivered
+1748,C009,Aaron Gomez,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-08-09,PayPal,Delivered
+1749,C006,Sarah Ryan,P008,Backpack,Fashion,5,40.0,200.0,2024-08-04,Credit Card,Cancelled
+1750,C038,Patricia Robinson,P004,Smartphone,Electronics,1,500.0,500.0,2024-09-07,Credit Card,Processing
+1751,C040,Jessica Howard,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-11-25,Credit Card,Delivered
+1752,C020,Amber Wilcox,P006,LED Monitor,Electronics,1,200.0,200.0,2024-06-27,Debit Card,Processing
+1753,C003,Joel Price,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-05-29,PayPal,Shipped
+1754,C040,Jason Yang,P008,Backpack,Fashion,3,40.0,120.0,2024-04-19,Debit Card,Cancelled
+1755,C028,Jaime Larson,P004,Smartphone,Electronics,5,500.0,2500.0,2024-05-28,Credit Card,Processing
+1756,C039,Jennifer Ferguson,P001,Wireless Mouse,Electronics,5,25.0,125.0,2025-01-12,PayPal,Delivered
+1757,C036,Karen Whitaker,P005,Yoga Mat,Sportswear,3,30.0,90.0,2024-04-12,Debit Card,Shipped
+1758,C024,Vickie Spears,P008,Backpack,Fashion,2,40.0,80.0,2024-05-16,Credit Card,Processing
+1759,C019,Marisa Woods,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-11-20,Debit Card,Processing
+1760,C042,David Cruz,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-09-11,Debit Card,Delivered
+1761,C031,Kevin Holland,P001,Wireless Mouse,Electronics,1,25.0,25.0,2024-05-19,PayPal,Processing
+1762,C006,Kristen Curry,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-03-03,Credit Card,Shipped
+1763,C009,Jeffrey Morris,P008,Backpack,Fashion,1,40.0,40.0,2024-05-28,Debit Card,Cancelled
+1764,C028,Luke Rubio,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2024-03-21,PayPal,Shipped
+1765,C047,Tony Ford,P004,Smartphone,Electronics,2,500.0,1000.0,2024-07-09,Credit Card,Cancelled
+1766,C049,Vincent Newman,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-03-15,PayPal,Shipped
+1767,C030,James Combs,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-12-06,PayPal,Shipped
+1768,C046,Steven Pope,P004,Smartphone,Electronics,4,500.0,2000.0,2024-08-11,PayPal,Cancelled
+1769,C002,Diana Smith,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-04-26,Debit Card,Processing
+1770,C011,Hannah Mills,P001,Wireless Mouse,Electronics,2,25.0,50.0,2025-01-30,PayPal,Shipped
+1771,C001,Nancy Flores,P007,Coffee Maker,Home Appliances,3,100.0,300.0,2025-01-31,Debit Card,Processing
+1772,C048,Lisa Navarro,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-08-06,Credit Card,Cancelled
+1773,C036,Sydney Ramirez,P007,Coffee Maker,Home Appliances,3,100.0,300.0,2024-08-13,PayPal,Processing
+1774,C024,Heidi Tate,P001,Wireless Mouse,Electronics,4,25.0,100.0,2024-09-20,Credit Card,Cancelled
+1775,C018,Matthew Jones,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-09-27,Credit Card,Processing
+1776,C026,Russell Holloway,P007,Coffee Maker,Home Appliances,3,100.0,300.0,2025-01-02,PayPal,Shipped
+1777,C036,Brenda Greer,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-09-26,PayPal,Delivered
+1778,C028,Randall Bishop,P008,Backpack,Fashion,2,40.0,80.0,2024-12-11,Debit Card,Shipped
+1779,C050,Dawn Mccann,P004,Smartphone,Electronics,5,500.0,2500.0,2024-09-10,Credit Card,Shipped
+1780,C036,Robert Williams,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-03-08,Debit Card,Shipped
+1781,C037,Mary Brown,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-07-03,Credit Card,Cancelled
+1782,C022,Anne Nash,P006,LED Monitor,Electronics,3,200.0,600.0,2024-09-29,Credit Card,Shipped
+1783,C043,Christine White,P003,Running Shoes,Sportswear,3,60.0,180.0,2024-08-27,Credit Card,Processing
+1784,C045,Jesus Coleman,P004,Smartphone,Electronics,3,500.0,1500.0,2024-05-14,Debit Card,Cancelled
+1785,C028,Christopher Bell,P006,LED Monitor,Electronics,2,200.0,400.0,2024-06-02,Debit Card,Shipped
+1786,C045,Darren Vaughn,P007,Coffee Maker,Home Appliances,3,100.0,300.0,2025-01-27,Debit Card,Shipped
+1787,C003,Felicia Savage,P006,LED Monitor,Electronics,3,200.0,600.0,2024-09-24,PayPal,Processing
+1788,C050,Laura Smith,P003,Running Shoes,Sportswear,3,60.0,180.0,2024-09-03,Credit Card,Cancelled
+1789,C019,Connie Johnson,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-12-19,Debit Card,Cancelled
+1790,C031,Sean Hayes,P008,Backpack,Fashion,3,40.0,120.0,2025-02-08,PayPal,Shipped
+1791,C047,Karen Greene,P007,Coffee Maker,Home Appliances,3,100.0,300.0,2024-10-05,Debit Card,Cancelled
+1792,C026,Daniel Garcia,P001,Wireless Mouse,Electronics,1,25.0,25.0,2024-07-19,Credit Card,Processing
+1793,C034,Jared Gregory,P001,Wireless Mouse,Electronics,1,25.0,25.0,2024-03-23,Credit Card,Delivered
+1794,C029,Robert Torres,P008,Backpack,Fashion,5,40.0,200.0,2024-06-12,Debit Card,Delivered
+1795,C040,Teresa Patterson,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-07-14,PayPal,Processing
+1796,C040,Lance Jefferson,P001,Wireless Mouse,Electronics,4,25.0,100.0,2025-02-07,Debit Card,Delivered
+1797,C024,Christopher Petersen,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-12-02,Credit Card,Processing
+1798,C044,Susan Moss,P003,Running Shoes,Sportswear,2,60.0,120.0,2025-01-15,PayPal,Cancelled
+1799,C026,Tyler Wilson,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-05-01,Credit Card,Delivered
+1800,C039,Anna Hughes,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-04-19,Credit Card,Cancelled
+1801,C017,Jeffrey Taylor,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-09-19,Debit Card,Shipped
+1802,C021,Dorothy Johnson,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2024-09-16,Credit Card,Cancelled
+1803,C027,Shirley Johnson MD,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-09-26,Credit Card,Shipped
+1804,C049,Seth Cisneros,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-09-20,PayPal,Cancelled
+1805,C050,Erin Braun,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-07-19,PayPal,Shipped
+1806,C015,Justin Decker,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-11-27,Credit Card,Processing
+1807,C027,Jesse Williams,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-10-26,Credit Card,Cancelled
+1808,C007,Stacey Nelson,P004,Smartphone,Electronics,3,500.0,1500.0,2024-02-25,Debit Card,Shipped
+1809,C021,Brian Thompson,P008,Backpack,Fashion,1,40.0,40.0,2024-12-02,Debit Card,Delivered
+1810,C003,Emily Gardner,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-04-06,Debit Card,Delivered
+1811,C046,Kimberly Carney,P006,LED Monitor,Electronics,1,200.0,200.0,2025-02-06,Credit Card,Delivered
+1812,C042,Patrick Erickson,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-07-25,PayPal,Processing
+1813,C012,Matthew Reyes,P005,Yoga Mat,Sportswear,3,30.0,90.0,2024-11-06,Debit Card,Processing
+1814,C009,Kathleen Sherman,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-05-01,Debit Card,Cancelled
+1815,C024,Jessica Newman,P008,Backpack,Fashion,1,40.0,40.0,2024-08-20,PayPal,Cancelled
+1816,C024,Paul Lee,P006,LED Monitor,Electronics,2,200.0,400.0,2024-07-14,Credit Card,Shipped
+1817,C022,Jacob Mcmahon,P004,Smartphone,Electronics,1,500.0,500.0,2024-07-05,PayPal,Shipped
+1818,C019,Laura Decker,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-06-01,Debit Card,Delivered
+1819,C023,Kyle Thomas,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-11-19,Debit Card,Processing
+1820,C030,Gina Rodriguez,P004,Smartphone,Electronics,2,500.0,1000.0,2024-06-17,Debit Card,Delivered
+1821,C005,Benjamin Beck,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-07-18,PayPal,Cancelled
+1822,C046,Amanda Jones,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-04-03,Credit Card,Shipped
+1823,C046,Mrs. Diana Middleton,P008,Backpack,Fashion,5,40.0,200.0,2024-04-02,PayPal,Delivered
+1824,C007,Cynthia Bauer,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2024-12-12,PayPal,Shipped
+1825,C018,Adam Rojas,P004,Smartphone,Electronics,3,500.0,1500.0,2024-04-17,PayPal,Processing
+1826,C037,Caitlin Martin,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2025-01-29,Debit Card,Processing
+1827,C031,Kimberly Jones,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2024-09-22,PayPal,Shipped
+1828,C030,Paul Lopez,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-10-09,Credit Card,Processing
+1829,C002,Ryan Henderson,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2024-04-08,PayPal,Delivered
+1830,C031,Charles Nguyen,P004,Smartphone,Electronics,5,500.0,2500.0,2025-01-25,PayPal,Delivered
+1831,C043,Eric Reed,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-11-04,Debit Card,Shipped
+1832,C004,Lisa Anderson,P004,Smartphone,Electronics,3,500.0,1500.0,2024-11-13,PayPal,Cancelled
+1833,C014,Margaret Sanchez,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-05-06,PayPal,Shipped
+1834,C028,William Turner,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2024-10-04,PayPal,Cancelled
+1835,C008,Alexandra Wilson,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-03-09,PayPal,Processing
+1836,C040,Jasmin Mccoy,P008,Backpack,Fashion,2,40.0,80.0,2024-02-21,PayPal,Shipped
+1837,C008,Cynthia Mcbride,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-12-22,PayPal,Processing
+1838,C016,Audrey Shepard,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-10-10,Debit Card,Processing
+1839,C038,Connie Young,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-07-12,Debit Card,Shipped
+1840,C033,Derek Rivas,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-02-26,Credit Card,Cancelled
+1841,C036,Kevin Sweeney,P006,LED Monitor,Electronics,4,200.0,800.0,2024-07-21,Credit Card,Delivered
+1842,C007,Betty Simmons,P004,Smartphone,Electronics,5,500.0,2500.0,2024-09-26,Credit Card,Processing
+1843,C042,Joseph Moyer,P004,Smartphone,Electronics,5,500.0,2500.0,2024-03-01,PayPal,Shipped
+1844,C036,Danielle Dawson,P008,Backpack,Fashion,5,40.0,200.0,2024-12-29,Credit Card,Delivered
+1845,C030,Frank Smith,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-05-18,PayPal,Shipped
+1846,C013,Katherine Freeman,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-12-16,Credit Card,Processing
+1847,C045,Michael Butler,P004,Smartphone,Electronics,4,500.0,2000.0,2024-06-14,Credit Card,Cancelled
+1848,C007,Dawn Rodriguez,P008,Backpack,Fashion,5,40.0,200.0,2024-11-21,Debit Card,Delivered
+1849,C015,Wesley Oconnor,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-09-03,PayPal,Cancelled
+1850,C018,Monique Schmitt,P004,Smartphone,Electronics,1,500.0,500.0,2024-04-20,PayPal,Processing
+1851,C044,Michael Bishop,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-05-01,Debit Card,Processing
+1852,C027,Colleen Peterson,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2024-05-20,Credit Card,Cancelled
+1853,C013,Aaron Vargas,P006,LED Monitor,Electronics,2,200.0,400.0,2024-10-27,PayPal,Shipped
+1854,C002,Phillip Adams,P004,Smartphone,Electronics,1,500.0,500.0,2024-04-09,Credit Card,Shipped
+1855,C034,Lisa Parker,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-09-13,Debit Card,Cancelled
+1856,C041,Paul Rubio,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-03-02,Credit Card,Delivered
+1857,C012,Jody Scott,P008,Backpack,Fashion,3,40.0,120.0,2024-09-23,PayPal,Cancelled
+1858,C023,Alexandra Wright,P006,LED Monitor,Electronics,5,200.0,1000.0,2024-09-24,Credit Card,Cancelled
+1859,C041,Steven Shelton,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-04-22,Credit Card,Cancelled
+1860,C027,Thomas Martinez,P006,LED Monitor,Electronics,4,200.0,800.0,2024-07-19,PayPal,Processing
+1861,C014,Erin Rogers,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2024-12-12,Credit Card,Cancelled
+1862,C015,Danielle Carroll,P004,Smartphone,Electronics,5,500.0,2500.0,2024-02-22,Debit Card,Delivered
+1863,C001,Phillip Steele,P004,Smartphone,Electronics,3,500.0,1500.0,2025-01-14,PayPal,Shipped
+1864,C015,April Edwards,P001,Wireless Mouse,Electronics,5,25.0,125.0,2025-02-07,Debit Card,Delivered
+1865,C043,Sara Bautista,P008,Backpack,Fashion,3,40.0,120.0,2024-07-01,PayPal,Cancelled
+1866,C023,Nicole Bruce,P001,Wireless Mouse,Electronics,5,25.0,125.0,2025-01-31,PayPal,Processing
+1867,C042,Rebecca Young,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-10-19,Credit Card,Cancelled
+1868,C028,Christopher Mccarthy,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-09-06,Credit Card,Cancelled
+1869,C022,Heather Ramsey,P006,LED Monitor,Electronics,2,200.0,400.0,2024-08-12,Credit Card,Cancelled
+1870,C009,Scott Miller,P006,LED Monitor,Electronics,3,200.0,600.0,2024-12-03,PayPal,Shipped
+1871,C039,Ashley Williams,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2024-06-05,PayPal,Delivered
+1872,C023,Terry Lyons,P004,Smartphone,Electronics,1,500.0,500.0,2024-11-17,Debit Card,Delivered
+1873,C016,Christopher Lewis,P005,Yoga Mat,Sportswear,2,30.0,60.0,2024-03-02,Debit Card,Processing
+1874,C024,Jason Davenport,P004,Smartphone,Electronics,4,500.0,2000.0,2024-11-19,Credit Card,Shipped
+1875,C036,David Cole,P004,Smartphone,Electronics,2,500.0,1000.0,2024-11-03,Credit Card,Delivered
+1876,C049,Shelia Contreras,P004,Smartphone,Electronics,1,500.0,500.0,2024-03-10,Credit Card,Cancelled
+1877,C009,Christopher Moore,P006,LED Monitor,Electronics,1,200.0,200.0,2024-08-16,PayPal,Delivered
+1878,C037,Dr. Kathy Young DDS,P008,Backpack,Fashion,5,40.0,200.0,2024-06-05,Credit Card,Delivered
+1879,C032,Timothy Cannon,P006,LED Monitor,Electronics,1,200.0,200.0,2024-06-05,PayPal,Cancelled
+1880,C029,Dr. Erica White,P008,Backpack,Fashion,5,40.0,200.0,2024-08-22,PayPal,Cancelled
+1881,C002,Amy Frye,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-03-14,PayPal,Delivered
+1882,C046,John Farrell,P008,Backpack,Fashion,5,40.0,200.0,2024-10-31,Credit Card,Delivered
+1883,C027,Jennifer Key,P006,LED Monitor,Electronics,3,200.0,600.0,2024-06-05,PayPal,Cancelled
+1884,C049,Cody Dunn,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-03-08,Debit Card,Shipped
+1885,C016,Veronica Butler,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2025-01-16,PayPal,Processing
+1886,C040,Jeffrey Gibson,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-11-15,Credit Card,Delivered
+1887,C026,Kevin Bishop,P005,Yoga Mat,Sportswear,5,30.0,150.0,2024-02-18,Debit Card,Cancelled
+1888,C014,Edward Harris,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-12-03,PayPal,Cancelled
+1889,C017,Patrick Nguyen,P008,Backpack,Fashion,5,40.0,200.0,2024-08-10,PayPal,Shipped
+1890,C046,Craig Willis,P003,Running Shoes,Sportswear,1,60.0,60.0,2024-05-06,PayPal,Shipped
+1891,C031,Amanda Miller,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2024-06-19,Credit Card,Cancelled
+1892,C025,Francisco Hughes,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-05-17,PayPal,Delivered
+1893,C010,Vanessa Reynolds,P005,Yoga Mat,Sportswear,5,30.0,150.0,2025-01-13,PayPal,Processing
+1894,C021,Melissa Dean,P008,Backpack,Fashion,4,40.0,160.0,2024-07-20,PayPal,Delivered
+1895,C005,Aaron Tanner,P004,Smartphone,Electronics,4,500.0,2000.0,2024-08-14,PayPal,Processing
+1896,C049,Angela Shelton,P008,Backpack,Fashion,4,40.0,160.0,2024-03-03,Credit Card,Shipped
+1897,C042,Katherine Stevens,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2025-02-08,PayPal,Cancelled
+1898,C008,Pamela Garcia,P008,Backpack,Fashion,1,40.0,40.0,2024-05-04,Credit Card,Delivered
+1899,C033,Emily Mercer,P005,Yoga Mat,Sportswear,2,30.0,60.0,2024-04-20,PayPal,Shipped
+1900,C043,John Collins,P005,Yoga Mat,Sportswear,5,30.0,150.0,2024-12-15,PayPal,Delivered
+1901,C026,John Martinez,P004,Smartphone,Electronics,4,500.0,2000.0,2024-05-02,Credit Card,Processing
+1902,C004,Megan Webb,P004,Smartphone,Electronics,4,500.0,2000.0,2024-11-11,Debit Card,Cancelled
+1903,C050,Jeremy Washington,P008,Backpack,Fashion,2,40.0,80.0,2024-10-07,Credit Card,Shipped
+1904,C006,Jessica Rowe,P008,Backpack,Fashion,1,40.0,40.0,2024-08-20,PayPal,Processing
+1905,C031,Michael Johnson,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-07-15,PayPal,Delivered
+1906,C036,Gregory Rodriguez,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-12-17,Debit Card,Shipped
+1907,C006,Natasha Hansen,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-07-29,PayPal,Processing
+1908,C012,Ronnie Ellis,P001,Wireless Mouse,Electronics,3,25.0,75.0,2024-10-04,PayPal,Shipped
+1909,C023,Derek Arnold,P006,LED Monitor,Electronics,4,200.0,800.0,2024-12-01,PayPal,Delivered
+1910,C025,Mr. Michael Thompson,P006,LED Monitor,Electronics,2,200.0,400.0,2025-02-04,PayPal,Cancelled
+1911,C012,Emma Smith,P006,LED Monitor,Electronics,2,200.0,400.0,2024-02-18,Credit Card,Processing
+1912,C011,Kimberly Hahn,P003,Running Shoes,Sportswear,3,60.0,180.0,2024-06-27,Credit Card,Processing
+1913,C014,Donald Clark,P008,Backpack,Fashion,3,40.0,120.0,2024-11-14,Credit Card,Processing
+1914,C042,Devin Russell,P001,Wireless Mouse,Electronics,1,25.0,25.0,2025-01-03,Credit Card,Delivered
+1915,C032,Steven Nelson,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-06-20,PayPal,Shipped
+1916,C026,Mr. Isaac Franklin,P008,Backpack,Fashion,5,40.0,200.0,2024-07-22,Debit Card,Processing
+1917,C018,Michael Wright,P005,Yoga Mat,Sportswear,2,30.0,60.0,2024-03-05,PayPal,Processing
+1918,C008,Kelly Miller,P008,Backpack,Fashion,5,40.0,200.0,2024-12-30,Debit Card,Cancelled
+1919,C018,Kendra Hill,P006,LED Monitor,Electronics,4,200.0,800.0,2024-04-05,PayPal,Processing
+1920,C013,Ann Paul,P008,Backpack,Fashion,3,40.0,120.0,2024-08-04,Credit Card,Cancelled
+1921,C003,Karen Edwards,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-05-22,PayPal,Processing
+1922,C011,Tracy Ramirez,P007,Coffee Maker,Home Appliances,4,100.0,400.0,2024-11-29,Debit Card,Shipped
+1923,C004,John Marsh,P003,Running Shoes,Sportswear,2,60.0,120.0,2025-01-06,Credit Card,Shipped
+1924,C042,Mary Tanner,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-03-31,Credit Card,Processing
+1925,C049,Tiffany Logan,P006,LED Monitor,Electronics,2,200.0,400.0,2025-01-29,Debit Card,Shipped
+1926,C022,Bobby Irwin,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-12-23,Debit Card,Shipped
+1927,C013,Jeffrey Mosley,P006,LED Monitor,Electronics,1,200.0,200.0,2024-08-22,Debit Card,Delivered
+1928,C040,Richard Cooper,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-10-02,PayPal,Processing
+1929,C029,Stephanie Knight,P003,Running Shoes,Sportswear,2,60.0,120.0,2025-01-03,Credit Card,Processing
+1930,C025,Charles Scott,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-07-06,Credit Card,Processing
+1931,C019,James Thompson,P007,Coffee Maker,Home Appliances,1,100.0,100.0,2024-11-11,Credit Card,Shipped
+1932,C008,David Garrett,P004,Smartphone,Electronics,2,500.0,1000.0,2025-01-31,PayPal,Cancelled
+1933,C039,Monica Kennedy,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-12-26,Debit Card,Delivered
+1934,C017,Daniel Miller,P004,Smartphone,Electronics,3,500.0,1500.0,2024-10-02,PayPal,Processing
+1935,C030,Linda Williams,P002,Mechanical Keyboard,Electronics,4,80.0,320.0,2024-05-29,Credit Card,Shipped
+1936,C015,Jeremy Gilbert,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-07-14,PayPal,Shipped
+1937,C003,William Thompson,P005,Yoga Mat,Sportswear,5,30.0,150.0,2024-06-26,PayPal,Processing
+1938,C031,Alyssa Edwards,P008,Backpack,Fashion,4,40.0,160.0,2024-10-30,Debit Card,Shipped
+1939,C040,Jeremiah Fleming,P008,Backpack,Fashion,5,40.0,200.0,2024-11-02,PayPal,Delivered
+1940,C034,Michael Ray,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-05-06,Credit Card,Cancelled
+1941,C031,Joshua Salazar,P004,Smartphone,Electronics,1,500.0,500.0,2025-02-14,Credit Card,Delivered
+1942,C036,Felicia Johnson,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2025-01-26,Debit Card,Cancelled
+1943,C029,David Hess,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-11-07,PayPal,Shipped
+1944,C041,Mary Heath,P004,Smartphone,Electronics,3,500.0,1500.0,2024-10-31,Credit Card,Cancelled
+1945,C005,Karen Taylor MD,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-06-22,PayPal,Cancelled
+1946,C048,Sabrina Schwartz,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-07-23,PayPal,Delivered
+1947,C004,Jessica Reed,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-02-22,Credit Card,Delivered
+1948,C012,Charles Carter,P006,LED Monitor,Electronics,1,200.0,200.0,2024-12-30,Credit Card,Cancelled
+1949,C005,Vanessa Miller,P006,LED Monitor,Electronics,4,200.0,800.0,2024-06-20,Debit Card,Delivered
+1950,C050,Austin Barrera,P008,Backpack,Fashion,2,40.0,80.0,2024-07-26,PayPal,Shipped
+1951,C029,Stephen Simpson,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2024-08-15,PayPal,Delivered
+1952,C006,Tracey Brown,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-10-11,Debit Card,Processing
+1953,C012,Andrew Hubbard,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-05-13,Debit Card,Processing
+1954,C036,Jennifer Evans,P008,Backpack,Fashion,4,40.0,160.0,2024-08-28,PayPal,Processing
+1955,C012,Christina Stark,P005,Yoga Mat,Sportswear,3,30.0,90.0,2024-03-27,Debit Card,Cancelled
+1956,C035,Travis Hall,P001,Wireless Mouse,Electronics,1,25.0,25.0,2024-04-18,PayPal,Cancelled
+1957,C003,Dawn Howell,P003,Running Shoes,Sportswear,5,60.0,300.0,2025-01-14,Credit Card,Delivered
+1958,C047,James Cook,P005,Yoga Mat,Sportswear,1,30.0,30.0,2024-11-22,Debit Card,Shipped
+1959,C015,Jessica Hammond,P006,LED Monitor,Electronics,3,200.0,600.0,2024-08-03,Credit Card,Cancelled
+1960,C014,James Chapman,P008,Backpack,Fashion,5,40.0,200.0,2024-10-26,Debit Card,Processing
+1961,C011,Chad Nash,P006,LED Monitor,Electronics,5,200.0,1000.0,2024-12-25,PayPal,Cancelled
+1962,C046,Elizabeth Hebert,P006,LED Monitor,Electronics,1,200.0,200.0,2024-04-25,Credit Card,Shipped
+1963,C033,Kimberly Caldwell,P008,Backpack,Fashion,5,40.0,200.0,2024-08-06,Credit Card,Delivered
+1964,C011,Eric Perez,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2025-02-10,Debit Card,Shipped
+1965,C008,Amber Ortiz,P003,Running Shoes,Sportswear,1,60.0,60.0,2024-07-27,Debit Card,Delivered
+1966,C007,Ashley Weaver,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-10-27,Credit Card,Cancelled
+1967,C028,Sonya Price,P005,Yoga Mat,Sportswear,4,30.0,120.0,2024-06-11,Credit Card,Delivered
+1968,C042,Ms. Casey Harris,P006,LED Monitor,Electronics,2,200.0,400.0,2024-05-08,Credit Card,Cancelled
+1969,C046,Morgan Smith,P004,Smartphone,Electronics,3,500.0,1500.0,2024-08-11,Credit Card,Delivered
+1970,C036,Debra Brooks,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-12-06,Debit Card,Cancelled
+1971,C030,Cheyenne Williams,P003,Running Shoes,Sportswear,5,60.0,300.0,2024-06-12,Credit Card,Processing
+1972,C012,Audrey Gutierrez,P002,Mechanical Keyboard,Electronics,3,80.0,240.0,2024-06-05,Debit Card,Delivered
+1973,C020,Glenn Wilson,P004,Smartphone,Electronics,2,500.0,1000.0,2024-12-28,Debit Card,Processing
+1974,C020,David Bradley,P008,Backpack,Fashion,3,40.0,120.0,2024-10-14,Credit Card,Processing
+1975,C049,Tina Santana,P006,LED Monitor,Electronics,4,200.0,800.0,2024-08-01,PayPal,Shipped
+1976,C047,Kathleen Mcguire,P001,Wireless Mouse,Electronics,5,25.0,125.0,2024-05-02,Debit Card,Processing
+1977,C023,Hannah Johnson,P003,Running Shoes,Sportswear,4,60.0,240.0,2025-02-12,PayPal,Cancelled
+1978,C035,Brian Martinez Jr.,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2024-09-24,PayPal,Shipped
+1979,C017,Scott Cox,P007,Coffee Maker,Home Appliances,2,100.0,200.0,2024-05-23,PayPal,Processing
+1980,C049,Scott Weeks,P006,LED Monitor,Electronics,1,200.0,200.0,2024-07-18,Debit Card,Cancelled
+1981,C002,Patrick Lawrence,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-05-21,Debit Card,Shipped
+1982,C006,Adam Kim,P004,Smartphone,Electronics,4,500.0,2000.0,2025-01-07,Credit Card,Cancelled
+1983,C029,Catherine Lewis,P006,LED Monitor,Electronics,4,200.0,800.0,2025-01-16,Credit Card,Shipped
+1984,C023,Robin Cox,P004,Smartphone,Electronics,1,500.0,500.0,2024-06-30,Debit Card,Shipped
+1985,C022,Angel Marquez,P002,Mechanical Keyboard,Electronics,2,80.0,160.0,2024-08-05,Credit Card,Cancelled
+1986,C046,Alexa Price,P003,Running Shoes,Sportswear,1,60.0,60.0,2024-05-10,Debit Card,Processing
+1987,C034,Angela Cabrera,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2025-01-15,Debit Card,Processing
+1988,C037,Samantha Larson,P004,Smartphone,Electronics,2,500.0,1000.0,2024-12-27,Debit Card,Shipped
+1989,C037,Jennifer Patel,P003,Running Shoes,Sportswear,4,60.0,240.0,2024-12-16,PayPal,Processing
+1990,C037,Victoria Valencia,P005,Yoga Mat,Sportswear,5,30.0,150.0,2024-12-23,Debit Card,Cancelled
+1991,C014,Travis Sharp,P006,LED Monitor,Electronics,3,200.0,600.0,2024-12-21,PayPal,Delivered
+1992,C038,Kimberly Dickerson,P004,Smartphone,Electronics,3,500.0,1500.0,2024-05-28,PayPal,Delivered
+1993,C010,Jonathan Morris,P007,Coffee Maker,Home Appliances,5,100.0,500.0,2024-07-15,Credit Card,Shipped
+1994,C002,Amber Cummings PhD,P002,Mechanical Keyboard,Electronics,1,80.0,80.0,2024-11-02,Credit Card,Cancelled
+1995,C020,Marcus Cox,P004,Smartphone,Electronics,3,500.0,1500.0,2024-08-29,Debit Card,Shipped
+1996,C032,Karen Ward,P005,Yoga Mat,Sportswear,2,30.0,60.0,2024-02-24,Debit Card,Delivered
+1997,C032,Gene Rice,P002,Mechanical Keyboard,Electronics,5,80.0,400.0,2024-09-08,Credit Card,Shipped
+1998,C044,Bryan Coleman,P001,Wireless Mouse,Electronics,2,25.0,50.0,2024-05-19,Debit Card,Shipped
+1999,C013,Annette Hull,P003,Running Shoes,Sportswear,2,60.0,120.0,2024-12-22,Debit Card,Processing
+2000,C001,Barbara Mccullough,P007,Coffee Maker,Home Appliances,3,100.0,300.0,2024-04-03,PayPal,Delivered

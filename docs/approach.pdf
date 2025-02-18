@@ -1,0 +1,89 @@
+**ETL Pipeline for E-Commerce Sales Data - Approach Document**
+
+## **1. Introduction**
+This document provides an overview of the ETL (Extract, Transform, Load) pipeline implemented to process e-commerce sales data. It covers the approach, challenges faced, and potential improvements.
+
+---
+
+## **2. Approach**
+### **2.1 Extract**
+- The raw sales data was provided in CSV format (`ecommerce_sales_data.csv`).
+- The data was loaded using the Pandas library in Python.
+- Column names were standardized (lowercase, underscores instead of spaces).
+
+### **2.2 Transform**
+- **Data Cleaning:**
+  - Converted `order_date` to a standardized `YYYY-MM-DD` format.
+  - Removed duplicate records to ensure data integrity.
+  - Handled missing values (replacing `NaN` in `quantity` and `price_per_unit` with `0`).
+  
+- **Feature Engineering:**
+  - Calculated `total_revenue = quantity * price_per_unit` for each order.
+  - Created summary tables:
+    - **Revenue per product** (grouped by `product_id`).
+    - **Orders per customer** (grouped by `customer_id`).
+
+### **2.3 Load**
+- Data was stored in an SQLite database (`ecommerce_sales.db`).
+- SQLAlchemy was used for database connection and insertion.
+- The following tables were created:
+  - `sales`: Raw transformed sales data.
+  - `revenue_per_product`: Aggregated revenue per product.
+  - `orders_per_customer`: Total orders per customer.
+
+---
+
+## **3. Challenges Faced & Solutions**
+### **3.1 Missing Columns in CSV**
+- Issue: The provided dataset did not have a `price` column, but instead had `price_per_unit`.
+- Solution: Updated calculations to use `price_per_unit`.
+
+### **3.2 SQLite Database Connection Issue**
+- Issue: `sqlite3.OperationalError: unable to open database file`.
+- Solution: Ensured that the `data/` directory existed before creating the database.
+
+### **3.3 Handling Date Formats**
+- Issue: `order_date` was in mixed formats.
+- Solution: Used Pandas `pd.to_datetime()` with `errors='coerce'` to standardize the format.
+
+---
+
+## **4. SQL Queries for Insights**
+### **4.1 Top 10 Best-Selling Products**
+```sql
+SELECT product_id, SUM(total_revenue) AS total_revenue
+FROM sales
+GROUP BY product_id
+ORDER BY total_revenue DESC
+LIMIT 10;
+```
+
+### **4.2 Top 10 High-Value Customers**
+```sql
+SELECT customer_id, SUM(total_revenue) AS total_spent
+FROM sales
+GROUP BY customer_id
+ORDER BY total_spent DESC
+LIMIT 10;
+```
+
+---
+
+## **5. Future Improvements**
+### **5.1 Use Apache Airflow for Scheduling**
+- Automate the ETL process to run at scheduled intervals.
+
+### **5.2 Deploy Pipeline to Cloud (AWS/GCP/Azure)**
+- Store data in AWS S3 and process using AWS Lambda or Redshift.
+
+### **5.3 Dockerization**
+- Use Docker to ensure consistency across environments.
+
+---
+
+## **6. Conclusion**
+The ETL pipeline successfully processes raw e-commerce data into a structured format, making it ready for analysis. Further improvements such as scheduling, cloud deployment, and containerization can enhance scalability and automation.
+
+**GitHub Repository:** [Insert Link]
+
+**Prepared By:** [Your Name]
